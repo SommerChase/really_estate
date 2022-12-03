@@ -12,7 +12,8 @@ beautifulsoup4 = "^4.11.1"
 ipykernel = "^6.17.1"
 jupyter = "^1.0.0"
 lxml = "^4.9.1"
-prefect = "^2.6.9"
+prefect = {extras = ["aws"], version = "^2.7.0"}
+prefect-aws = "^0.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
