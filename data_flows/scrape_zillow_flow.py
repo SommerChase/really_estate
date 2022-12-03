@@ -3,6 +3,7 @@ import pandas as pd
 from bs4 import BeautifulSoup # Html search tool
 import re # Regular expressions
 from datetime import date
+from prefect import flow, task
 
 request_headers = {
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
@@ -12,6 +13,7 @@ request_headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36'
     }
 
+@task
 def get_all_urls(city_state_abbr="raleigh-nc/"):
 
     url_setup = "https://www.zillow.com/" + city_state_abbr
@@ -32,6 +34,7 @@ def get_all_urls(city_state_abbr="raleigh-nc/"):
 
     return flat_full_llist_urls
 
+@task
 def get_full_url_branch(re_search_set):
 
     full_url_list = []
@@ -44,6 +47,7 @@ def get_full_url_branch(re_search_set):
     
     return full_url_list
 
+@task
 def get_request_soup_and_parse(list_of_full_urls_to_scrape):
 
     final_data_list = []
@@ -82,17 +86,30 @@ def get_request_soup_and_parse(list_of_full_urls_to_scrape):
 
     return final_data_list
 
-zillow_df = pd.DataFrame(get_request_soup_and_parse(get_full_url_branch(get_all_urls())), 
-                         columns=["address_full", 
-                                    "price", 
-                                    "count_beds", 
-                                    "count_baths", 
-                                    "sq_ft", 
-                                    "days_on_zillow"])
+@task
+def to_df_and_clean(raw_data):
+    zillow_df = pd.DataFrame(raw_data, 
+                            columns=["address_full", 
+                                        "price", 
+                                        "count_beds", 
+                                        "count_baths", 
+                                        "sq_ft", 
+                                        "days_on_zillow"])
 
-zillow_df[["address", "city", "state_zip"]] = zillow_df["address_full"].str.split(',', expand=True)
-zillow_df["state_zip"] = zillow_df["state_zip"].str.strip()
-zillow_df[["state_abrev", "zip_code"]] = zillow_df["state_zip"].str.split(' ', expand=True)
-zillow_df["date_scraped"] = date.today()
+    zillow_df[["address", "city", "state_zip"]] = zillow_df["address_full"].str.split(',', expand=True)
+    zillow_df["state_zip"] = zillow_df["state_zip"].str.strip()
+    zillow_df[["state_abrev", "zip_code"]] = zillow_df["state_zip"].str.split(' ', expand=True)
+    zillow_df["date_scraped"] = date.today()
 
-zillow_df.to_csv('../data_flows_output/{today}_zillow_scrape_output.csv'.format(today=date.today()), header=True)
+    zillow_df.to_csv('../data_flows_output/{today}_zillow_scrape_output.csv'.format(today=date.today()), 
+                        header=True)
+
+@flow
+def zillow_scrape_flow():
+
+    url_bits = get_all_urls()
+    urls = get_full_url_branch(url_bits)
+    parsed_data = get_request_soup_and_parse(urls)
+    to_df_and_clean(parsed_data)
+
+zillow_scrape_flow()

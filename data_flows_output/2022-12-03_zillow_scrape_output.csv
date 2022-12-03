@@ -1,0 +1,762 @@
+,address_full,price,count_beds,count_baths,sq_ft,days_on_zillow,address,city,state_zip,state_abrev,zip_code,date_scraped
+0,"4913 Stoneyoak Ln, Raleigh, NC 27610","$550,000",4,3,"2,581",5,4913 Stoneyoak Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+1,"612 Peyton St, Raleigh, NC 27610","$339,775",3,2,"1,456",1,612 Peyton St, Raleigh,NC 27610,NC,27610,2022-12-03
+2,"2312 K Wesley Way, Raleigh, NC 27610","$299,900",3,2,"1,101",8,2312 K Wesley Way, Raleigh,NC 27610,NC,27610,2022-12-03
+3,"6104 Bayberry Ln, Raleigh, NC 27612","$535,000",4,3,"2,362",5,6104 Bayberry Ln, Raleigh,NC 27612,NC,27612,2022-12-03
+4,"1713 Oberlin Rd, Raleigh, NC 27608","$475,000",2,2,990,4,1713 Oberlin Rd, Raleigh,NC 27608,NC,27608,2022-12-03
+5,"501 John Haywood Way APT 101, Raleigh, NC 27604","$575,000",2,3,"1,538",D,501 John Haywood Way APT 101, Raleigh,NC 27604,NC,27604,2022-12-03
+6,"1401 Coopershill Dr APT 111, Raleigh, NC 27604","$275,000",1,2,975,1,1401 Coopershill Dr APT 111, Raleigh,NC 27604,NC,27604,2022-12-03
+7,"5901 Rivercliff Ct, Raleigh, NC 27610","$375,000",4,3,"2,200",6,5901 Rivercliff Ct, Raleigh,NC 27610,NC,27610,2022-12-03
+8,"7513 Mine Valley Rd, Raleigh, NC 27615","$429,900",4,3,"1,616",1,7513 Mine Valley Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+9,"9141 Sanctuary Ct, Raleigh, NC 27617","$950,000",4,4,"5,145",2,9141 Sanctuary Ct, Raleigh,NC 27617,NC,27617,2022-12-03
+10,"3223 Tabor Ct, Raleigh, NC 27604","$325,000",3,3,"1,516",1,3223 Tabor Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+11,"4209 Willow Lake Rd, Raleigh, NC 27616","$365,000",3,3,"1,534",2,4209 Willow Lake Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+12,"4713 Mial Plantation Rd, Raleigh, NC 27610","$415,000",3,3,"1,946",2,4713 Mial Plantation Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+13,"11241 Lofty Heights Pl, Raleigh, NC 27614","$340,000",2,2,"1,138",2,11241 Lofty Heights Pl, Raleigh,NC 27614,NC,27614,2022-12-03
+14,"2231 Raven Rd UNIT 107, Raleigh, NC 27614","$285,000",3,3,"1,740",2,2231 Raven Rd UNIT 107, Raleigh,NC 27614,NC,27614,2022-12-03
+15,"341 Gilman Ln UNIT 111, Raleigh, NC 27610","$280,000",3,3,"1,753",1,341 Gilman Ln UNIT 111, Raleigh,NC 27610,NC,27610,2022-12-03
+16,"4332 Rockside Hills Dr, Raleigh, NC 27603","$419,500",3,2,"1,820",4,4332 Rockside Hills Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+17,"3100 Braddock Dr, Raleigh, NC 27612","$639,500",5,3,"3,567",3,3100 Braddock Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+18,"701 Lake Brandon Trl, Raleigh, NC 27610","$324,000",3,3,"1,625",1,701 Lake Brandon Trl, Raleigh,NC 27610,NC,27610,2022-12-03
+19,"7408 Wilderness Rd, Raleigh, NC 27613","$549,900",4,3,"2,495",2,7408 Wilderness Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+20,"4608 Ryegate Dr, Raleigh, NC 27604","$359,775",4,2,"1,591",1,4608 Ryegate Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+21,"5804 Conly Dr, Raleigh, NC 27603","$300,000",3,2,"1,319",6,5804 Conly Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+22,"12521 Waterlow Park Ln, Raleigh, NC 27614","$379,900",3,3,"1,441",1,12521 Waterlow Park Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+23,"410 Weathergreen Dr, Raleigh, NC 27615","$390,000",4,4,"2,665",2,410 Weathergreen Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+24,"8967 Commons Townes Dr, Raleigh, NC 27616","$329,000",3,3,"1,407",1,8967 Commons Townes Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+25,"3305 Glen Currin Dr, Raleigh, NC 27612","$445,000",3,3,"1,339",2,3305 Glen Currin Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+26,"10316 20th Rd, Raleigh, NC 27603","$679,900",4,4,"2,840",3,10316 20th Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+27,"3401 Sitzman Ct, Raleigh, NC 27616","$335,000",3,3,"1,661",1,3401 Sitzman Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+28,"1041 Wirewood Dr APT 202, Raleigh, NC 27605","$369,900",2,2,"1,120",2,1041 Wirewood Dr APT 202, Raleigh,NC 27605,NC,27605,2022-12-03
+29,"3804 Burwell Rollins Cir, Raleigh, NC 27612","$675,000",3,3,"2,860",1,3804 Burwell Rollins Cir, Raleigh,NC 27612,NC,27612,2022-12-03
+30,"2308 Myron Dr APT 103, Raleigh, NC 27607","$264,775",3,2,990,1,2308 Myron Dr APT 103, Raleigh,NC 27607,NC,27607,2022-12-03
+31,"825 Swan Neck Ln, Raleigh, NC 27615","$415,000",3,3,"1,800",1,825 Swan Neck Ln, Raleigh,NC 27615,NC,27615,2022-12-03
+32,"2212 Anderson Dr, Raleigh, NC 27608","$1,249,000",4,3,"3,007",8,2212 Anderson Dr, Raleigh,NC 27608,NC,27608,2022-12-03
+33,"5917 Meadowlark Ln, Raleigh, NC 27610","$374,900",4,2,"1,452",2,5917 Meadowlark Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+34,"4505 Buffaloe Rd, Raleigh, NC 27616","$290,000",3,2,"1,396",5,4505 Buffaloe Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+35,"1204 Aaron Dr, Raleigh, NC 27610","$307,999",3,3,"1,729",1,1204 Aaron Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+36,"4236 Lake Ridge Dr #0, Raleigh, NC 27604","$200,000",2,2,"1,026",2,4236 Lake Ridge Dr #0, Raleigh,NC 27604,NC,27604,2022-12-03
+37,"2472 Sapphire Valley Dr, Raleigh, NC 27604","$325,000",3,3,"1,721",3,2472 Sapphire Valley Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+38,"1004 Trollingwood Ln, Raleigh, NC 27615","$360,000",3,2,"1,324",1,1004 Trollingwood Ln, Raleigh,NC 27615,NC,27615,2022-12-03
+39,"5005 Dawn Piper Dr, Raleigh, NC 27613","$355,000",3,3,"1,382",2,5005 Dawn Piper Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+40,"1327 Cricket Ridge Dr, Raleigh, NC 27610","$280,000",3,3,"1,404",7,1327 Cricket Ridge Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+41,"1549 Village Glenn Dr, Raleigh, NC 27612","$379,900",3,3,"1,942",1,1549 Village Glenn Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+42,"632 Duke Dr, Raleigh, NC 27609","$499,160",3,2,"1,190",1,632 Duke Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+43,"101 Woods Ream Dr, Raleigh, NC 27615","$300,000",3,2,"1,554",3,101 Woods Ream Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+44,"2717 Peachleaf St, Raleigh, NC 27614","$625,000",4,3,"3,730",1,2717 Peachleaf St, Raleigh,NC 27614,NC,27614,2022-12-03
+45,"2116 Turtle Point Dr, Raleigh, NC 27604","$269,000",3,3,"1,430",2,2116 Turtle Point Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+46,"7600 Birchmoor Way, Raleigh, NC 27616","$459,000",4,5,"2,828",1,7600 Birchmoor Way, Raleigh,NC 27616,NC,27616,2022-12-03
+47,"4212 Timberwood Dr, Raleigh, NC 27612","$384,900",3,3,"1,503",7,4212 Timberwood Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+48,"4601 Landover Woods Ln, Raleigh, NC 27616","$400,000",4,3,"2,034",1,4601 Landover Woods Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+49,"5920 Dunbarton Way, Raleigh, NC 27613","$549,900",4,3,"2,343",3,5920 Dunbarton Way, Raleigh,NC 27613,NC,27613,2022-12-03
+50,"548 Dacian Rd, Raleigh, NC 27610","$289,000",4,3,"1,592",2,548 Dacian Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+51,"269 Beechwood Hill Dr, Raleigh, NC 27603","$329,000",3,3,"2,313",9,269 Beechwood Hill Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+52,"3800 Ingram Dr, Raleigh, NC 27604","$575,000",3,3,"1,800",3,3800 Ingram Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+53,"105 Tall Rock Court, Raleigh, NC 27610","$257,900",2,2,938,3,105 Tall Rock Court, Raleigh,NC 27610,NC,27610,2022-12-03
+54,"7112 Ray Rd, Raleigh, NC 27613","$385,000",3,2,"1,523",2,7112 Ray Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+55,"2108 Ramseur St, Raleigh, NC 27610","$449,900",4,3,"1,900",1,2108 Ramseur St, Raleigh,NC 27610,NC,27610,2022-12-03
+56,"6236 Morning Glory Dr, Raleigh, NC 27603","$807,000",4,4,"4,000",2,6236 Morning Glory Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+57,"4412 Birmingham Way, Raleigh, NC 27604","$370,000",4,3,"2,192",5,4412 Birmingham Way, Raleigh,NC 27604,NC,27604,2022-12-03
+58,"4504 Queen Pierrette St #21, Raleigh, NC 27610","$303,990",3,3,"1,601",2,4504 Queen Pierrette St #21, Raleigh,NC 27610,NC,27610,2022-12-03
+59,"1908 Jupiter Hills Ct, Raleigh, NC 27604","$350,000",3,3,"1,558",2,1908 Jupiter Hills Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+60,"2203 Landings Way, Raleigh, NC 27615","$500,000",4,3,"2,385",1,2203 Landings Way, Raleigh,NC 27615,NC,27615,2022-12-03
+61,"3008 Dawnbrook Dr, Raleigh, NC 27604","$415,000",4,3,"2,775",9,3008 Dawnbrook Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+62,"3127 Briar Stream Run, Raleigh, NC 27612","$899,900",4,4,"3,453",3,3127 Briar Stream Run, Raleigh,NC 27612,NC,27612,2022-12-03
+63,"8500 Flying Buttress Dr, Raleigh, NC 27613","$394,000",2,3,"1,605",1,8500 Flying Buttress Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+64,"4001 Blackard Pond Rd, Raleigh, NC 27604","$349,900",3,2,"1,925",1,4001 Blackard Pond Rd, Raleigh,NC 27604,NC,27604,2022-12-03
+65,"2613 Elmhurst Cir, Raleigh, NC 27610","$272,500",3,1,"1,064",1,2613 Elmhurst Cir, Raleigh,NC 27610,NC,27610,2022-12-03
+66,"10340 Grafton Rd, Raleigh, NC 27615","$1,795,000",5,6,"4,536",2,10340 Grafton Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+67,"5915 Kayton St, Raleigh, NC 27616","$415,000",4,4,"2,374",1,5915 Kayton St, Raleigh,NC 27616,NC,27616,2022-12-03
+68,"3528 Dewing Dr, Raleigh, NC 27616","$410,000",4,3,"2,977",6,3528 Dewing Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+69,"4216 Loon Ln, Raleigh, NC 27616","$328,000",3,3,"1,581",2,4216 Loon Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+70,"2112 Leadenhall Way, Raleigh, NC 27603","$399,900",3,3,"1,516",3,2112 Leadenhall Way, Raleigh,NC 27603,NC,27603,2022-12-03
+71,"204 Rattan Bay Dr, Raleigh, NC 27610","$290,000",3,2,"1,300",4,204 Rattan Bay Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+72,"426 Chavis Way, Raleigh, NC 27601","$759,000",2,4,"1,878",2,426 Chavis Way, Raleigh,NC 27601,NC,27601,2022-12-03
+73,"4105 Crowfield Dr, Raleigh, NC 27610","$329,000",4,3,"1,786",3,4105 Crowfield Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+74,"500 Trunecek Cir, Raleigh, NC 27603","$450,000",3,2,"2,445",9,500 Trunecek Cir, Raleigh,NC 27603,NC,27603,2022-12-03
+75,"609 Jordan Ridge Ln, Raleigh, NC 27603","$388,000",3,3,"2,031",5,609 Jordan Ridge Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+76,"7309 Massachusetts Ct, Raleigh, NC 27615","$389,900",3,3,"1,750",1,7309 Massachusetts Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+77,"1616 Wynne Trace Ct, Raleigh, NC 27603","$725,000",5,4,"4,336",5,1616 Wynne Trace Ct, Raleigh,NC 27603,NC,27603,2022-12-03
+78,"612 Poplar Springs Church Rd, Raleigh, NC 27603","$389,000",3,2,"1,874",7,612 Poplar Springs Church Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+79,"2419 Britt Dr, Raleigh, NC 27610","$399,900",3,2,"2,290",5,2419 Britt Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+80,"601 Okelly St, Raleigh, NC 27607","$275,000",3,2,"1,222",1,601 Okelly St, Raleigh,NC 27607,NC,27607,2022-12-03
+81,"104 S Pettigrew St, Raleigh, NC 27610","$485,000",3,2,"1,313",2,104 S Pettigrew St, Raleigh,NC 27610,NC,27610,2022-12-03
+82,"8801 Wildwood Links, Raleigh, NC 27613","$587,000",3,2,"2,364",1,8801 Wildwood Links, Raleigh,NC 27613,NC,27613,2022-12-03
+83,"1024 Sandel Ln, Raleigh, NC 27603","$445,000",3,3,"2,631",4,1024 Sandel Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+84,"1621 Whittington Dr, Raleigh, NC 27614","$550,000",4,3,"2,686",8,1621 Whittington Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+85,"524 Branch St, Raleigh, NC 27601","$289,900",3,1,"1,034",4,524 Branch St, Raleigh,NC 27601,NC,27601,2022-12-03
+86,"5904 Endsley Ct, Raleigh, NC 27610","$352,000",3,3,"1,566",1,5904 Endsley Ct, Raleigh,NC 27610,NC,27610,2022-12-03
+87,"1061 Wirewood Dr APT 204, Raleigh, NC 27605","$405,000",2,2,"1,120",2,1061 Wirewood Dr APT 204, Raleigh,NC 27605,NC,27605,2022-12-03
+88,"4001 Mindspring Dr, Raleigh, NC 27610","$250,000",3,3,"1,319",3,4001 Mindspring Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+89,"716 Nash Dr, Raleigh, NC 27608","$575,000",5,2,"2,324",5,716 Nash Dr, Raleigh,NC 27608,NC,27608,2022-12-03
+90,"7310 Summerland Dr, Raleigh, NC 27612","$310,000",3,3,"1,628",7,7310 Summerland Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+91,"816 Peyton St, Raleigh, NC 27610","$469,900",4,4,"1,949",1,816 Peyton St, Raleigh,NC 27610,NC,27610,2022-12-03
+92,"11308 Derby Ln, Raleigh, NC 27613","$760,000",4,4,"3,450",5,11308 Derby Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+93,"1615 Malta Ave, Raleigh, NC 27610","$299,000",4,3,"1,352",7,1615 Malta Ave, Raleigh,NC 27610,NC,27610,2022-12-03
+94,"1330 Armstrong Cir, Raleigh, NC 27610","$309,900",4,2,"1,307",4,1330 Armstrong Cir, Raleigh,NC 27610,NC,27610,2022-12-03
+95,"3409 Cheyenne Rd, Raleigh, NC 27609","$389,800",3,2,"1,394",1,3409 Cheyenne Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+96,"5426 Talserwood Dr, Raleigh, NC 27610","$190,000",3,3,"1,115",4,5426 Talserwood Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+97,"1331 Courtland Dr, Raleigh, NC 27604","$1,000,000",4,3,"2,529",5,1331 Courtland Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+98,"6500 Hammersmith Dr, Raleigh, NC 27613","$480,000",3,2,"1,482",2,6500 Hammersmith Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+99,"4800 Patton Ridge Ct, Raleigh, NC 27612","$929,000",5,5,"3,644",1,4800 Patton Ridge Ct, Raleigh,NC 27612,NC,27612,2022-12-03
+100,"2219 River Basin Ln, Raleigh, NC 27610","$339,900",3,3,"1,863",1,2219 River Basin Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+101,"7800 Foxwood Dr, Raleigh, NC 27615","$375,000",3,2,"1,562",9,7800 Foxwood Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+102,"2708 Boxelder Ct, Raleigh, NC 27610","$285,000",3,2,"1,070",1,2708 Boxelder Ct, Raleigh,NC 27610,NC,27610,2022-12-03
+103,"1112 Stoneferry Ln, Raleigh, NC 27606","$449,000",3,3,"1,768",8,1112 Stoneferry Ln, Raleigh,NC 27606,NC,27606,2022-12-03
+104,"410 Fenton St, Raleigh, NC 27604","$625,000",3,2,"1,712",1,410 Fenton St, Raleigh,NC 27604,NC,27604,2022-12-03
+105,"1112 Temple St, Raleigh, NC 27609","$499,000",3,2,"1,433",3,1112 Temple St, Raleigh,NC 27609,NC,27609,2022-12-03
+106,"3709 Beaver Creek Dr, Raleigh, NC 27604","$510,000",3,3,"2,074",1,3709 Beaver Creek Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+107,"4301 Sugarbend Way, Raleigh, NC 27606","$299,900",2,3,"1,345",3,4301 Sugarbend Way, Raleigh,NC 27606,NC,27606,2022-12-03
+108,"6000 Winterpointe Ln APT 104, Raleigh, NC 27606","$255,000",2,2,"1,089",9,6000 Winterpointe Ln APT 104, Raleigh,NC 27606,NC,27606,2022-12-03
+109,"5121 Carnelian Dr, Raleigh, NC 27610","$325,000",4,3,"1,629",3,5121 Carnelian Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+110,"1200 Kerrigan Ln, Raleigh, NC 27603","$329,900",3,3,"1,709",2,1200 Kerrigan Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+111,"904 Lake Forest Dr, Raleigh, NC 27615","$288,600",3,2,"1,772",D,904 Lake Forest Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+112,"11905 Straight A Way Ln, Raleigh, NC 27613","$550,000",4,3,"2,882",8,11905 Straight A Way Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+113,"5704 Continental Way, Raleigh, NC 27610","$336,000",3,3,"1,627",5,5704 Continental Way, Raleigh,NC 27610,NC,27610,2022-12-03
+114,"2834 Bedfordshire Ct, Raleigh, NC 27604","$247,000",2,2,"1,053",6,2834 Bedfordshire Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+115,"12805 Rosalie St, Raleigh, NC 27614","$799,990",5,5,"3,909",2,12805 Rosalie St, Raleigh,NC 27614,NC,27614,2022-12-03
+116,"1919 Fieldhouse Ave, Raleigh, NC 27603","$330,000",3,3,"1,531",7,1919 Fieldhouse Ave, Raleigh,NC 27603,NC,27603,2022-12-03
+117,"11710 Mezzanine Dr UNIT 101, Raleigh, NC 27614","$289,000",3,3,"1,735",1,11710 Mezzanine Dr UNIT 101, Raleigh,NC 27614,NC,27614,2022-12-03
+118,"1908 White Oak Rd, Raleigh, NC 27608","$579,900",3,2,"1,448",3,1908 White Oak Rd, Raleigh,NC 27608,NC,27608,2022-12-03
+119,"319 Fayetteville St UNIT 314, Raleigh, NC 27601","$480,000",2,2,"1,510",2,319 Fayetteville St UNIT 314, Raleigh,NC 27601,NC,27601,2022-12-03
+120,"832 Graham St, Raleigh, NC 27605","$2,500,000",4,4,"4,665",2,832 Graham St, Raleigh,NC 27605,NC,27605,2022-12-03
+121,"12305 Kendall Ridge Ct, Durham, NC 27703","$375,000",4,3,"1,849",5,12305 Kendall Ridge Ct, Durham,NC 27703,NC,27703,2022-12-03
+122,"3309 Snowberry Dr, Raleigh, NC 27610","$385,000",4,3,"2,053",6,3309 Snowberry Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+123,"5120 Wood Valley Dr, Raleigh, NC 27613","$599,000",4,3,"3,343",3,5120 Wood Valley Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+124,"6305 Paint Rock Ln, Raleigh, NC 27610","$395,000",5,4,"2,762",1,6305 Paint Rock Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+125,"2029 Township Cir, Raleigh, NC 27609","$239,000",2,3,"1,106",4,2029 Township Cir, Raleigh,NC 27609,NC,27609,2022-12-03
+126,"3421 Horseshoe Bnd, Raleigh, NC 27613","$699,950",5,4,"3,200",2,3421 Horseshoe Bnd, Raleigh,NC 27613,NC,27613,2022-12-03
+127,"400 W North St APT 1532, Raleigh, NC 27603","$370,000",1,1,"1,005",3,400 W North St APT 1532, Raleigh,NC 27603,NC,27603,2022-12-03
+128,"5412 Sharpe Dr, Raleigh, NC 27612","$324,900",2,2,"1,410",1,5412 Sharpe Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+129,"8120 Knebworth Ct, Raleigh, NC 27613","$450,000",3,3,"2,526",1,8120 Knebworth Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+130,"4502 Queen Pierrette St #22, Raleigh, NC 27610","$299,990",3,3,"1,573",7,4502 Queen Pierrette St #22, Raleigh,NC 27610,NC,27610,2022-12-03
+131,"3810 Grey Harbor Dr APT 203, Raleigh, NC 27616","$170,000",1,2,752,5,3810 Grey Harbor Dr APT 203, Raleigh,NC 27616,NC,27616,2022-12-03
+132,"4735 Quarryman Rd, Raleigh, NC 27610","$329,900",3,3,"1,918",1,4735 Quarryman Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+133,"805 Nuttree Pl, Raleigh, NC 27606","$445,000",3,2,"1,403",1,805 Nuttree Pl, Raleigh,NC 27606,NC,27606,2022-12-03
+134,"5604 Sherrif Pl W, Raleigh, NC 27610","$336,000",4,2,"2,178",1,5604 Sherrif Pl W, Raleigh,NC 27610,NC,27610,2022-12-03
+135,"4617 Dresden Village Dr, Raleigh, NC 27604","$400,000",4,3,"2,194",6,4617 Dresden Village Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+136,"3900 Cane Garden Dr, Raleigh, NC 27610","$389,900",4,3,"2,482",2,3900 Cane Garden Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+137,"108 Penncross Dr, Raleigh, NC 27610","$429,900",5,3,"2,400",3,108 Penncross Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+138,"563 Pine Ridge Pl #563, Raleigh, NC 27609","$175,000",2,1,905,4,563 Pine Ridge Pl #563, Raleigh,NC 27609,NC,27609,2022-12-03
+139,"10904 Brass Kettle Rd, Raleigh, NC 27614","$639,900",4,3,"2,321",1,10904 Brass Kettle Rd, Raleigh,NC 27614,NC,27614,2022-12-03
+140,"5837 Dahlberg Dr, Raleigh, NC 27603","$469,500",3,3,"2,310",3,5837 Dahlberg Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+141,"4412 Major Loring Way, Raleigh, NC 27616","$399,900",3,3,"2,216",3,4412 Major Loring Way, Raleigh,NC 27616,NC,27616,2022-12-03
+142,"8009 Ghost Pony Trl, Raleigh, NC 27613","$1,095,000",4,4,"3,472",1,8009 Ghost Pony Trl, Raleigh,NC 27613,NC,27613,2022-12-03
+143,"4725 Royal Troon Dr, Raleigh, NC 27604","$499,000",5,4,"3,700",5,4725 Royal Troon Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+144,"250 E Davie St #250, Raleigh, NC 27601","$409,900",2,2,"1,107",4,250 E Davie St #250, Raleigh,NC 27601,NC,27601,2022-12-03
+145,"1909 Carthage Cir, Raleigh, NC 27604","$350,000",3,3,"1,834",1,1909 Carthage Cir, Raleigh,NC 27604,NC,27604,2022-12-03
+146,"10201 Sorrills Creek Ln, Raleigh, NC 27614","$495,000",4,3,"2,202",1,10201 Sorrills Creek Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+147,"10804 Summerton Dr, Raleigh, NC 27614","$729,500",4,3,"3,063",5,10804 Summerton Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+148,"1317 October Rd, Raleigh, NC 27614","$749,000",4,4,"3,505",1,1317 October Rd, Raleigh,NC 27614,NC,27614,2022-12-03
+149,"7418 State Highway 42 W, Raleigh, NC 27603","$360,000",3,2,"1,752",1,7418 State Highway 42 W, Raleigh,NC 27603,NC,27603,2022-12-03
+150,"8777 Cypress Grove Run, Raleigh, NC 27612","$350,000",2,4,"1,845",4,8777 Cypress Grove Run, Raleigh,NC 27612,NC,27612,2022-12-03
+151,"5914 Applewood Ln, Raleigh, NC 27609","$299,777",2,2,"1,120",1,5914 Applewood Ln, Raleigh,NC 27609,NC,27609,2022-12-03
+152,"7409 Capstone Dr, Raleigh, NC 27615","$849,900",4,3,"3,299",5,7409 Capstone Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+153,"2444 Milburnie Rd, Raleigh, NC 27610","$359,000",3,1,"1,013",1,2444 Milburnie Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+154,"1107 Brightskies St, Morrisville, NC 27560","$399,000",3,3,"1,880",5,1107 Brightskies St, Morrisville,NC 27560,NC,27560,2022-12-03
+155,"4105-07 Arckelton Dr, Raleigh, NC 27612","$695,000",--,--,--,3,4105-07 Arckelton Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+156,"5902 Carmel Ln, Raleigh, NC 27609","$375,000",3,3,"1,830",3,5902 Carmel Ln, Raleigh,NC 27609,NC,27609,2022-12-03
+157,"9717 Batesville Dr, Raleigh, NC 27617","$479,900",4,3,"2,211",3,9717 Batesville Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+158,"5229 Newstead Manor Ln, Raleigh, NC 27606","$1,950,000",4,5,"5,557",1,5229 Newstead Manor Ln, Raleigh,NC 27606,NC,27606,2022-12-03
+159,"1331 Ileagnes Rd, Raleigh, NC 27603","$579,900",4,3,"2,577",6,1331 Ileagnes Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+160,"4927 Werribee Dr, Raleigh, NC 27616","$330,000",3,2,"1,367",7,4927 Werribee Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+161,"7703 River Field Dr, Raleigh, NC 27616","$284,999",3,3,"1,256",3,7703 River Field Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+162,"1734 Township Cir, Raleigh, NC 27609","$270,000",2,3,"1,285",3,1734 Township Cir, Raleigh,NC 27609,NC,27609,2022-12-03
+163,"7800 Laurel Mountain Rd, Raleigh, NC 27613","$649,900",4,3,"2,784",5,7800 Laurel Mountain Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+164,"2200 Wyckford Forest Dr, Raleigh, NC 27604","$385,000",3,4,"2,171",7,2200 Wyckford Forest Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+165,"10805 Pendragon Pl, Raleigh, NC 27614","$350,000",4,3,"1,973",2,10805 Pendragon Pl, Raleigh,NC 27614,NC,27614,2022-12-03
+166,"5405 Emerson Dr, Raleigh, NC 27609","$775,000",4,3,"2,068",1,5405 Emerson Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+167,"4003 Marsh Creek Rd, Raleigh, NC 27604","$370,000",3,2,"1,532",1,4003 Marsh Creek Rd, Raleigh,NC 27604,NC,27604,2022-12-03
+168,"1001 Minnie Dr, Raleigh, NC 27603","$640,000",3,3,"2,555",3,1001 Minnie Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+169,"4112 Mardella Dr, Raleigh, NC 27613","$500,000",4,3,"2,266",5,4112 Mardella Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+170,"3932 Griffis Glen Dr, Raleigh, NC 27610","$315,000",4,3,"1,621",3,3932 Griffis Glen Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+171,"4710 Quiet Creek Ln, Knightdale, NC 27545","$428,000",5,3,"2,349",1,4710 Quiet Creek Ln, Knightdale,NC 27545,NC,27545,2022-12-03
+172,"7624 Pinecrest Rd, Raleigh, NC 27613","$824,750",4,4,"3,260",D,7624 Pinecrest Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+173,"6417 Camellia Creek Dr, Raleigh, NC 27603","$855,000",4,5,"3,700",1,6417 Camellia Creek Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+174,"1921 Deep Forest Trl, Raleigh, NC 27603","$425,000",4,4,"2,116",2,1921 Deep Forest Trl, Raleigh,NC 27603,NC,27603,2022-12-03
+175,"68 Old Hickory Dr, Raleigh, NC 27603","$549,900",4,3,"2,845",1,68 Old Hickory Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+176,"2608 Elmhurst Cir, Raleigh, NC 27610","$275,000",3,2,"1,613",2,2608 Elmhurst Cir, Raleigh,NC 27610,NC,27610,2022-12-03
+177,"8236 Ebenezer Church Rd, Raleigh, NC 27617","$424,900",3,4,"1,950",1,8236 Ebenezer Church Rd, Raleigh,NC 27617,NC,27617,2022-12-03
+178,"906 Brooks Ave, Raleigh, NC 27607","$2,225,000",4,5,"4,459",7,906 Brooks Ave, Raleigh,NC 27607,NC,27607,2022-12-03
+179,"4921 Hollenden Dr APT 204, Raleigh, NC 27616","$199,900",2,2,"1,345",3,4921 Hollenden Dr APT 204, Raleigh,NC 27616,NC,27616,2022-12-03
+180,"7244 Janston Dr, Raleigh, NC 27613","$350,000",3,4,"1,912",3,7244 Janston Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+181,"2921 Maidenhair Dr, Raleigh, NC 27610","$360,000",4,3,"2,044",2,2921 Maidenhair Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+182,"6713 Johnsdale Rd, Raleigh, NC 27615","$439,500",3,4,"2,584",5,6713 Johnsdale Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+183,"4901 Cardinal Grove Blvd, Raleigh, NC 27616","$377,000",3,3,"1,943",3,4901 Cardinal Grove Blvd, Raleigh,NC 27616,NC,27616,2022-12-03
+184,"1355 Garden Crest Cir, Raleigh, NC 27609","$295,000",3,4,"1,830",5,1355 Garden Crest Cir, Raleigh,NC 27609,NC,27609,2022-12-03
+185,"1600 Bickett Blvd, Raleigh, NC 27608","$695,000",3,2,"1,625",1,1600 Bickett Blvd, Raleigh,NC 27608,NC,27608,2022-12-03
+186,"5053 Aspen Meadow St, Raleigh, NC 27616","$599,000",5,3,"2,994",2,5053 Aspen Meadow St, Raleigh,NC 27616,NC,27616,2022-12-03
+187,"5701 Setter Cir, Raleigh, NC 27609","$370,000",3,2,"1,827",3,5701 Setter Cir, Raleigh,NC 27609,NC,27609,2022-12-03
+188,"7609 Brighton Hill Ln, Raleigh, NC 27616","$329,900",3,3,"1,401",3,7609 Brighton Hill Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+189,"7705 Falcon Rest Cir, Raleigh, NC 27615","$260,000",3,3,"1,447",1,7705 Falcon Rest Cir, Raleigh,NC 27615,NC,27615,2022-12-03
+190,"7409 Peddler Pl, Raleigh, NC 27615","$550,000",4,3,"2,625",7,7409 Peddler Pl, Raleigh,NC 27615,NC,27615,2022-12-03
+191,"2713 Daytona Dr, Raleigh, NC 27610","$249,900",4,2,"1,304",1,2713 Daytona Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+192,"618 N Boylan Ave SUITE 506, Raleigh, NC 27603","$550,000",2,2,"1,122",2,618 N Boylan Ave SUITE 506, Raleigh,NC 27603,NC,27603,2022-12-03
+193,"2001 Bason Ct, Raleigh, NC 27609","$485,000",3,3,"1,739",3,2001 Bason Ct, Raleigh,NC 27609,NC,27609,2022-12-03
+194,"6524 Perry Creek Rd, Raleigh, NC 27616","$399,900",3,3,"2,107",1,6524 Perry Creek Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+195,"7826 Silverthread Ln, Raleigh, NC 27617","$325,000",2,3,"1,349",1,7826 Silverthread Ln, Raleigh,NC 27617,NC,27617,2022-12-03
+196,"10716 Leslie Dr, Raleigh, NC 27615","$700,000",4,3,"3,738",4,10716 Leslie Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+197,"805 Van Thomas Dr, Raleigh, NC 27615","$549,000",4,3,"3,051",D,805 Van Thomas Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+198,"11727 Man O War Trl, Raleigh, NC 27613","$799,900",4,4,"3,266",8,11727 Man O War Trl, Raleigh,NC 27613,NC,27613,2022-12-03
+199,"3700 Pembrook Pl, Raleigh, NC 27612","$565,000",4,3,"2,189",4,3700 Pembrook Pl, Raleigh,NC 27612,NC,27612,2022-12-03
+200,"3424 Mackinac Island Ln, Raleigh, NC 27610","$314,900",3,3,"1,503",5,3424 Mackinac Island Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+201,"5901 Canewood Pl, Raleigh, NC 27612","$511,000",3,4,"2,447",1,5901 Canewood Pl, Raleigh,NC 27612,NC,27612,2022-12-03
+202,"1025 Suffolk Blvd, Raleigh, NC 27603","$315,000",3,2,936,3,1025 Suffolk Blvd, Raleigh,NC 27603,NC,27603,2022-12-03
+203,"3045 Coxindale Dr, Raleigh, NC 27615","$314,000",3,3,"1,470",4,3045 Coxindale Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+204,"317 W Morgan St APT 515, Raleigh, NC 27601","$1,790,000",4,3,"2,875",3,317 W Morgan St APT 515, Raleigh,NC 27601,NC,27601,2022-12-03
+205,"2213 Roberts St, Raleigh, NC 27607","$675,000",3,3,"2,051",2,2213 Roberts St, Raleigh,NC 27607,NC,27607,2022-12-03
+206,"6129 Weobley Ln, Raleigh, NC 27614","$800,000",4,3,"3,288",6,6129 Weobley Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+207,"5808 Nottoway Ct APT B, Raleigh, NC 27609","$252,000",3,3,"1,460",4,5808 Nottoway Ct APT B, Raleigh,NC 27609,NC,27609,2022-12-03
+208,"11128 Crestmont Dr, Raleigh, NC 27613","$419,900",3,2,"1,360",1,11128 Crestmont Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+209,"4945 Royal Adelaide Way, Raleigh, NC 27604","$325,000",3,3,"1,476",9,4945 Royal Adelaide Way, Raleigh,NC 27604,NC,27604,2022-12-03
+210,"2904 London Bell Dr, Raleigh, NC 27614","$685,000",4,4,"3,448",7,2904 London Bell Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+211,"11306 Leesville Rd, Raleigh, NC 27613","$69,999",0.47 Acres,57 days,"1,136",2,11306 Leesville Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+212,"710 Independence Pl UNIT 606, Raleigh, NC 27603","$1,100,000",3,4,"2,372",1,710 Independence Pl UNIT 606, Raleigh,NC 27603,NC,27603,2022-12-03
+213,"6848 Lakinsville Ln, Raleigh, NC 27610","$325,000",3,3,"1,932",3,6848 Lakinsville Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+214,"8251 Hempshire Pl APT 101, Raleigh, NC 27613","$349,900",3,3,"1,627",1,8251 Hempshire Pl APT 101, Raleigh,NC 27613,NC,27613,2022-12-03
+215,"2425 Jimmy Carter Way, Raleigh, NC 27610","$349,900",3,2,"1,118",6,2425 Jimmy Carter Way, Raleigh,NC 27610,NC,27610,2022-12-03
+216,"3317 Perkins Ridge Rd, Raleigh, NC 27610","$380,000",4,3,"2,428",2,3317 Perkins Ridge Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+217,"6005 Allsdale Dr, Raleigh, NC 27617","$513,990",4,3,"2,737",4,6005 Allsdale Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+218,"602 Woodland Rd, Raleigh, NC 27603","$59,000",0.37 Acres,103 days,"1,063",2,602 Woodland Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+219,"4125 Yadkin Dr, Raleigh, NC 27609","$650,000",3,2,"1,605",5,4125 Yadkin Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+220,"4016 Cashew Dr, Raleigh, NC 27616","$349,900",3,3,"1,342",1,4016 Cashew Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+221,"10100 Darling St, Raleigh, NC 27613","$660,000",4,4,"3,094",1,10100 Darling St, Raleigh,NC 27613,NC,27613,2022-12-03
+222,"705 Lanham Pl, Raleigh, NC 27615","$625,000",4,3,--,D,705 Lanham Pl, Raleigh,NC 27615,NC,27615,2022-12-03
+223,"7738 Sandra Ln, Raleigh, NC 27615","$250,000",3,2,"1,332",4,7738 Sandra Ln, Raleigh,NC 27615,NC,27615,2022-12-03
+224,"4111 Wyrick Ct, Raleigh, NC 27604","$305,000",2,2,"1,261",5,4111 Wyrick Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+225,"1124 Harper Rd, Raleigh, NC 27603","$450,000",6,3,"2,716",1,1124 Harper Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+226,"8100 Farmlea Cir, Raleigh, NC 27616","$224,700",2,2,949,2,8100 Farmlea Cir, Raleigh,NC 27616,NC,27616,2022-12-03
+227,"5320 Eagle Trace Dr, Raleigh, NC 27604","$293,900",2,3,"1,237",4,5320 Eagle Trace Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+228,"3348 Forest Mill Cir, Raleigh, NC 27616","$335,000",3,3,"1,693",5,3348 Forest Mill Cir, Raleigh,NC 27616,NC,27616,2022-12-03
+229,"5804 Falls Of Neuse Rd APT F, Raleigh, NC 27609","$230,000",2,2,"1,010",1,5804 Falls Of Neuse Rd APT F, Raleigh,NC 27609,NC,27609,2022-12-03
+230,"1500 Old Watkins Rd, Raleigh, NC 27616","$549,900",3,3,"2,484",1,1500 Old Watkins Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+231,"12816 Beech Wood Ct, Raleigh, NC 27614","$500,000",4,3,"2,344",8,12816 Beech Wood Ct, Raleigh,NC 27614,NC,27614,2022-12-03
+232,"2717 Hiking Trl, Raleigh, NC 27615","$520,000",3,4,"2,440",1,2717 Hiking Trl, Raleigh,NC 27615,NC,27615,2022-12-03
+233,"6143 Neuse Wood Dr, Raleigh, NC 27616","$293,000",3,3,"1,502",4,6143 Neuse Wood Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+234,"537 Pine Ridge Pl #537, Raleigh, NC 27609","$249,000",3,2,"1,232",5,537 Pine Ridge Pl #537, Raleigh,NC 27609,NC,27609,2022-12-03
+235,"10937 Connally Ln, Raleigh, NC 27614","$389,900",3,2,"1,515",4,10937 Connally Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+236,"2225 Raven Rd UNIT 108, Raleigh, NC 27614","$280,000",3,3,"1,729",4,2225 Raven Rd UNIT 108, Raleigh,NC 27614,NC,27614,2022-12-03
+237,"1110 Schaub Dr APT I, Raleigh, NC 27606","$179,900",2,2,932,4,1110 Schaub Dr APT I, Raleigh,NC 27606,NC,27606,2022-12-03
+238,"429 S Meadow Rd, Raleigh, NC 27603","$350,000",3,3,"1,479",5,429 S Meadow Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+239,"7316 Laketree Dr, Raleigh, NC 27615","$460,000",3,3,"1,754",2,7316 Laketree Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+240,"8121 Farmlea Cir, Raleigh, NC 27616","$185,000",2,2,948,1,8121 Farmlea Cir, Raleigh,NC 27616,NC,27616,2022-12-03
+241,"7604 Stuart Dr, Raleigh, NC 27615","$313,000",3,2,"1,187",1,7604 Stuart Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+242,"5201 Harrington Grove Dr, Raleigh, NC 27613","$489,900",3,2,"1,900",5,5201 Harrington Grove Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+243,"8631 Neuse Club Ln APT 108, Raleigh, NC 27616","$270,000",3,3,"1,692",1,8631 Neuse Club Ln APT 108, Raleigh,NC 27616,NC,27616,2022-12-03
+244,"3626 Cold Harbour Dr, Raleigh, NC 27610","$315,500",3,2,"1,351",5,3626 Cold Harbour Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+245,"311 Lord Ashley Rd, Raleigh, NC 27610","$799,900",5,3,"3,098",2,311 Lord Ashley Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+246,"301 Fayetteville St UNIT 3107, Raleigh, NC 27601","$785,000",2,2,"1,435",6,301 Fayetteville St UNIT 3107, Raleigh,NC 27601,NC,27601,2022-12-03
+247,"6727 Queen Annes Dr, Raleigh, NC 27613","$339,900",3,3,"1,741",6,6727 Queen Annes Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+248,"1957 Indianwood Ct, Raleigh, NC 27604","$349,900",3,3,"1,529",2,1957 Indianwood Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+249,"1108 Vannstone Dr, Raleigh, NC 27603","$460,000",3,3,"2,130",4,1108 Vannstone Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+250,"2412 Milburnie Rd, Raleigh, NC 27610","$375,000",2,1,"1,043",2,2412 Milburnie Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+251,"6132 Loch Laural Ln, Raleigh, NC 27613","$233,000",2,3,"1,163",1,6132 Loch Laural Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+252,"6508 Rock Quarry Rd, Raleigh, NC 27610","$324,700",3,2,"1,448",1,6508 Rock Quarry Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+253,"2206 Lyndhurst Dr, Raleigh, NC 27610","$425,000",4,4,"3,191",5,2206 Lyndhurst Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+254,"4015 Sunridge Rd, Raleigh, NC 27613","$659,000",5,3,"3,123",5,4015 Sunridge Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+255,"222 Glenwood Ave APT 515, Raleigh, NC 27603","$450,000",2,2,"1,173",2,222 Glenwood Ave APT 515, Raleigh,NC 27603,NC,27603,2022-12-03
+256,"3409 Archdale Dr, Raleigh, NC 27614","$375,000",4,3,"2,115",1,3409 Archdale Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+257,"809 Belmont Dr, Raleigh, NC 27610","$299,000",3,1,950,2,809 Belmont Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+258,"7655 Birchmoor Way, Raleigh, NC 27616","$485,000",4,3,"2,844",2,7655 Birchmoor Way, Raleigh,NC 27616,NC,27616,2022-12-03
+259,"2909 Rue Sans Famille, Raleigh, NC 27607","$524,900",3,3,"2,120",2,2909 Rue Sans Famille, Raleigh,NC 27607,NC,27607,2022-12-03
+260,"2811 Simpkins Rd, Raleigh, NC 27603","$795,000",3,3,"3,995",8,2811 Simpkins Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+261,"1418 Lyon St #101, Raleigh, NC 27608","$1,650,000",6,4,"4,414",3,1418 Lyon St #101, Raleigh,NC 27608,NC,27608,2022-12-03
+262,"1310 Canyon Rock Ct UNIT 106, Raleigh, NC 27610","$262,000",3,3,"1,747",2,1310 Canyon Rock Ct UNIT 106, Raleigh,NC 27610,NC,27610,2022-12-03
+263,"4634 Stonewall Dr, Raleigh, NC 27604","$430,000",5,3,"2,748",3,4634 Stonewall Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+264,"5269 Windy Hill Dr, Raleigh, NC 27609","$247,000",3,3,"1,406",1,5269 Windy Hill Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+265,"4208 Waterbury Rd, Raleigh, NC 27604","$342,000",3,2,"1,701",5,4208 Waterbury Rd, Raleigh,NC 27604,NC,27604,2022-12-03
+266,"5810 Sentinel Dr, Raleigh, NC 27609","$325,000",3,2,"1,830",8,5810 Sentinel Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+267,"6610 Morgantown St, Raleigh, NC 27616","$285,000",2,3,"1,390",6,6610 Morgantown St, Raleigh,NC 27616,NC,27616,2022-12-03
+268,"913 Weston St, Raleigh, NC 27610","$299,900",3,2,"1,038",5,913 Weston St, Raleigh,NC 27610,NC,27610,2022-12-03
+269,"9216 Erinsbrook Dr, Raleigh, NC 27617","$525,000",4,4,"2,922",5,9216 Erinsbrook Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+270,"1629 Sweetwater Ln, Raleigh, NC 27610","$825,000",4,3,"3,222",8,1629 Sweetwater Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+271,"3952 Wendy Ln, Raleigh, NC 27606","$265,000",3,3,"1,518",8,3952 Wendy Ln, Raleigh,NC 27606,NC,27606,2022-12-03
+272,"5813 Caledonia St, Raleigh, NC 27609","$399,900",3,2,"1,213",3,5813 Caledonia St, Raleigh,NC 27609,NC,27609,2022-12-03
+273,"5801 Humanity Ln N #2462, Raleigh, NC 27616","$350,150",3,3,"1,924",2,5801 Humanity Ln N #2462, Raleigh,NC 27616,NC,27616,2022-12-03
+274,"2631 Oldgate Dr APT 103, Raleigh, NC 27604","$295,000",2,2,943,3,2631 Oldgate Dr APT 103, Raleigh,NC 27604,NC,27604,2022-12-03
+275,"213 Linden Ave, Raleigh, NC 27601","$450,000",2,1,"1,040",3,213 Linden Ave, Raleigh,NC 27601,NC,27601,2022-12-03
+276,"904 S East St, Raleigh, NC 27601","$329,000",2,1,"1,157",2,904 S East St, Raleigh,NC 27601,NC,27601,2022-12-03
+277,"2432 Bay Harbor Dr, Raleigh, NC 27604","$260,000",2,3,"1,045",5,2432 Bay Harbor Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+278,"5836 Brambleton Ave, Raleigh, NC 27610","$308,000",3,3,"1,532",1,5836 Brambleton Ave, Raleigh,NC 27610,NC,27610,2022-12-03
+279,"1009 E Davie St, Raleigh, NC 27601","$299,000",3,1,958,2,1009 E Davie St, Raleigh,NC 27601,NC,27601,2022-12-03
+280,"6016 Over Hadden Ct, Raleigh, NC 27614","$2,900,000",5,8,"7,779",5,6016 Over Hadden Ct, Raleigh,NC 27614,NC,27614,2022-12-03
+281,"114 Summit Ave, Raleigh, NC 27603","$899,000",4,4,"2,457",2,114 Summit Ave, Raleigh,NC 27603,NC,27603,2022-12-03
+282,"1308 Tavernier Knoll Ln, Raleigh, NC 27603","$525,000",3,3,"2,614",1,1308 Tavernier Knoll Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+283,"2037 Summer Shire Way, Raleigh, NC 27604","$369,999",3,3,"2,171",9,2037 Summer Shire Way, Raleigh,NC 27604,NC,27604,2022-12-03
+284,"11173 Bayberry Hills Dr, Raleigh, NC 27617","$525,000",3,2,"1,921",2,11173 Bayberry Hills Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+285,"500 Deodar Ln, Raleigh, NC 27608","$695,000",3,4,"2,350",1,500 Deodar Ln, Raleigh,NC 27608,NC,27608,2022-12-03
+286,"9321 Cutright Dr, Raleigh, NC 27617","$439,900",3,3,"2,048",5,9321 Cutright Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+287,"2608 Charenson Pl, Raleigh, NC 27614","$670,000",6,4,"3,402",6,2608 Charenson Pl, Raleigh,NC 27614,NC,27614,2022-12-03
+288,"7822 Allscott Way, Raleigh, NC 27612","$340,000",2,3,"1,404",3,7822 Allscott Way, Raleigh,NC 27612,NC,27612,2022-12-03
+289,"520 Poplar Dr, Raleigh, NC 27603","$98,000",0.46 Acres,9 days,598,2,520 Poplar Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+290,"5445 Vista View Ct, Raleigh, NC 27612","$349,000",2,3,"1,752",4,5445 Vista View Ct, Raleigh,NC 27612,NC,27612,2022-12-03
+291,"1008 Oak Twig Dr, Raleigh, NC 27603","$300,000",3,2,"1,389",2,1008 Oak Twig Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+292,"2704 Panther Dr, Raleigh, NC 27603","$429,700",3,3,"2,344",1,2704 Panther Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+293,"918 Wake Towne Dr, Raleigh, NC 27609","$679,999",4,4,"2,587",1,918 Wake Towne Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+294,"1404 Westmoreland Dr, Raleigh, NC 27612","$635,000",3,2,"1,711",1,1404 Westmoreland Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+295,"4208 Kaplan Dr, Raleigh, NC 27606","$244,900",3,3,"1,140",1,4208 Kaplan Dr, Raleigh,NC 27606,NC,27606,2022-12-03
+296,"4924 Trek Ln, Raleigh, NC 27606","$503,900",3,3,"2,065",3,4924 Trek Ln, Raleigh,NC 27606,NC,27606,2022-12-03
+297,"227 Mediate Dr, Raleigh, NC 27603","$410,000",4,3,"2,567",6,227 Mediate Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+298,"3424 Vireo Ct, Raleigh, NC 27616","$425,000",4,3,"2,541",1,3424 Vireo Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+299,"6920 Glendower Rd, Raleigh, NC 27613","$432,000",4,3,"2,394",8,6920 Glendower Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+300,"204 Benar Dr, Raleigh, NC 27603","$250,000",3,2,"1,500",2,204 Benar Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+301,"10400 Rosegate Ct UNIT 306, Raleigh, NC 27617","$335,000",2,2,"1,425",1,10400 Rosegate Ct UNIT 306, Raleigh,NC 27617,NC,27617,2022-12-03
+302,"1031 Wirewood Dr APT 302, Raleigh, NC 27605","$369,000",2,2,911,4,1031 Wirewood Dr APT 302, Raleigh,NC 27605,NC,27605,2022-12-03
+303,"6120 Sunpointe Dr APT 301, Raleigh, NC 27606","$199,900",1,1,842,7,6120 Sunpointe Dr APT 301, Raleigh,NC 27606,NC,27606,2022-12-03
+304,"712 Powell Dr APT A, Raleigh, NC 27606","$324,500",2,3,"1,510",8,712 Powell Dr APT A, Raleigh,NC 27606,NC,27606,2022-12-03
+305,"1540 Rock Dove Way, Raleigh, NC 27614","$1,495,000",5,4,"4,466",2,1540 Rock Dove Way, Raleigh,NC 27614,NC,27614,2022-12-03
+306,"6452 Camellia Creek Dr, Raleigh, NC 27603","$775,000",4,6,"3,884",1,6452 Camellia Creek Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+307,"4813 Abundance Ave, Raleigh, NC 27616","$550,000",4,3,"2,814",9,4813 Abundance Ave, Raleigh,NC 27616,NC,27616,2022-12-03
+308,"2942 Glenridge Dr, Raleigh, NC 27604","$465,000",4,2,"1,924",1,2942 Glenridge Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+309,"2409 Toll Mill Ct, Raleigh, NC 27606","$1,295,000",4,6,"4,674",4,2409 Toll Mill Ct, Raleigh,NC 27606,NC,27606,2022-12-03
+310,"5349 Silver Moon Ln, Raleigh, NC 27606","$315,000",2,3,"1,417",5,5349 Silver Moon Ln, Raleigh,NC 27606,NC,27606,2022-12-03
+311,"4223 Viewmont Dr, Raleigh, NC 27610","$370,000",4,3,"1,777",3,4223 Viewmont Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+312,"2904 Charleston Oaks Dr, Raleigh, NC 27614","$849,000",4,5,"4,035",8,2904 Charleston Oaks Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+313,"2720 Charleston Oaks Dr, Raleigh, NC 27614","$925,000",6,6,"5,333",3,2720 Charleston Oaks Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+314,"7305 Glendower Rd, Raleigh, NC 27613","$470,000",4,3,"2,255",4,7305 Glendower Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+315,"2200 Mountain Mist Ct UNIT 201, Raleigh, NC 27603","$239,900",2,2,"1,050",3,2200 Mountain Mist Ct UNIT 201, Raleigh,NC 27603,NC,27603,2022-12-03
+316,"5220 Old Forge Cir, Raleigh, NC 27609","$589,000",3,2,"1,515",2,5220 Old Forge Cir, Raleigh,NC 27609,NC,27609,2022-12-03
+317,"7608 Fiesta Way, Raleigh, NC 27615","$473,995",4,3,"2,418",4,7608 Fiesta Way, Raleigh,NC 27615,NC,27615,2022-12-03
+318,"10171 Bessborough Dr, Raleigh, NC 27617","$399,000",3,3,"1,805",1,10171 Bessborough Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+319,"3801 Birchwood Ct, Raleigh, NC 27612","$360,000",3,3,"1,340",1,3801 Birchwood Ct, Raleigh,NC 27612,NC,27612,2022-12-03
+320,"3200 Broyhill Cir, Raleigh, NC 27604","$392,000",3,2,"1,809",1,3200 Broyhill Cir, Raleigh,NC 27604,NC,27604,2022-12-03
+321,"4304 Dinwiddie Ct, Raleigh, NC 27604","$325,000",3,3,"1,544",6,4304 Dinwiddie Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+322,"4908 Harbour Towne Dr, Raleigh, NC 27604","$338,000",3,2,"1,706",5,4908 Harbour Towne Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+323,"3832 Yates Mill Trl, Raleigh, NC 27606","$475,000",3,3,"1,771",2,3832 Yates Mill Trl, Raleigh,NC 27606,NC,27606,2022-12-03
+324,"5504 Botany Bay Dr, Raleigh, NC 27616","$400,000",3,3,"1,825",2,5504 Botany Bay Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+325,"115 Bertie Dr, Raleigh, NC 27610","$549,000",3,3,"2,089",2,115 Bertie Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+326,"4032 Converse Dr, Raleigh, NC 27609","$649,000",4,3,"2,233",7,4032 Converse Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+327,"3216 Leebrook Rd, Raleigh, NC 27616","$361,000",3,3,"1,665",1,3216 Leebrook Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+328,"5906 Myakka Ct, Raleigh, NC 27616","$630,000",5,5,"3,557",2,5906 Myakka Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+329,"11619 Shavenrock Pl, Raleigh, NC 27613","$519,000",4,3,"3,289",4,11619 Shavenrock Pl, Raleigh,NC 27613,NC,27613,2022-12-03
+330,"7912 Milltrace Run, Raleigh, NC 27615","$487,955",4,3,"2,460",1,7912 Milltrace Run, Raleigh,NC 27615,NC,27615,2022-12-03
+331,"1048 Nichols Dr #1048, Raleigh, NC 27605","$309,000",2,2,914,2,1048 Nichols Dr #1048, Raleigh,NC 27605,NC,27605,2022-12-03
+332,"1329 Wrentree Cir, Raleigh, NC 27610","$299,900",3,1,"1,008",8,1329 Wrentree Cir, Raleigh,NC 27610,NC,27610,2022-12-03
+333,"2434 Stevens Rd, Raleigh, NC 27610","$379,900",3,1,"1,040",8,2434 Stevens Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+334,"8236 Merriweather Cir, Raleigh, NC 27616","$229,000",2,2,"1,045",2,8236 Merriweather Cir, Raleigh,NC 27616,NC,27616,2022-12-03
+335,"4100 Willow Haven Ct, Raleigh, NC 27616","$318,900",3,2,"1,217",6,4100 Willow Haven Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+336,"12351 Honeychurch St, Raleigh, NC 27614","$550,000",5,4,"3,518",3,12351 Honeychurch St, Raleigh,NC 27614,NC,27614,2022-12-03
+337,"2304 Clerestory Pl, Raleigh, NC 27615","$475,000",4,3,"2,147",6,2304 Clerestory Pl, Raleigh,NC 27615,NC,27615,2022-12-03
+338,"472 Dickens Dr, Raleigh, NC 27610","$359,999",3,2,"1,470",6,472 Dickens Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+339,"8223 Ortin Ln, Raleigh, NC 27612","$850,000",4,4,"3,560",1,8223 Ortin Ln, Raleigh,NC 27612,NC,27612,2022-12-03
+340,"8640 Neuse Landing Ln UNIT 109, Raleigh, NC 27616","$266,700",3,3,"1,696",1,8640 Neuse Landing Ln UNIT 109, Raleigh,NC 27616,NC,27616,2022-12-03
+341,"7704 Fiesta Way, Raleigh, NC 27615","$399,900",4,3,"2,287",3,7704 Fiesta Way, Raleigh,NC 27615,NC,27615,2022-12-03
+342,"2404 Tusket Ct, Raleigh, NC 27613","$404,000",4,3,"2,014",7,2404 Tusket Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+343,"2509 Sawmill Rd, Raleigh, NC 27613","$325,000",3,3,"1,650",2,2509 Sawmill Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+344,"4009 Falls River Ave, Raleigh, NC 27614","$750,000",4,4,"3,618",6,4009 Falls River Ave, Raleigh,NC 27614,NC,27614,2022-12-03
+345,"301 Sawmill Rd, Raleigh, NC 27615","$301,000",3,2,"1,176",1,301 Sawmill Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+346,"1004 Buttar Ln, Raleigh, NC 27614","$3,350,000",5,5,"10,157",1,1004 Buttar Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+347,"8204 Greywinds Dr, Raleigh, NC 27615","$475,000",3,3,"1,900",1,8204 Greywinds Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+348,"6136 Ponderosa Rd, Raleigh, NC 27612","$1,250,000",4,5,"3,677",4,6136 Ponderosa Rd, Raleigh,NC 27612,NC,27612,2022-12-03
+349,"3820 Yadkin Dr, Raleigh, NC 27609","$949,900",5,5,"3,366",4,3820 Yadkin Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+350,"3811 Marcom St, Raleigh, NC 27606","$1,000,000",--,--,--,5,3811 Marcom St, Raleigh,NC 27606,NC,27606,2022-12-03
+351,"2601 Whippletree Dr, Raleigh, NC 27603","$649,999",3,3,"2,591",1,2601 Whippletree Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+352,"10831 Greater Hills St, Raleigh, NC 27614","$645,000",4,4,"3,246",5,10831 Greater Hills St, Raleigh,NC 27614,NC,27614,2022-12-03
+353,"2612 Lineberry Dr, Raleigh, NC 27603","$425,000",3,3,"1,250",5,2612 Lineberry Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+354,"829 Cumberland St #100 &amp; 101, Raleigh, NC 27610","$990,000",--,--,"3,366",1,829 Cumberland St #100 &amp; 101, Raleigh,NC 27610,NC,27610,2022-12-03
+355,"2032 Aviara Dr, Raleigh, NC 27606","$1,000,000",4,4,"4,274",1,2032 Aviara Dr, Raleigh,NC 27606,NC,27606,2022-12-03
+356,"9132 Sutherland Ct, Raleigh, NC 27615","$795,000",4,5,"4,408",9,9132 Sutherland Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+357,"1418 Lyon St #102, Raleigh, NC 27608","$1,575,000",5,4,"4,176",3,1418 Lyon St #102, Raleigh,NC 27608,NC,27608,2022-12-03
+358,"7810 Allscott Way, Raleigh, NC 27612","$365,000",2,3,"1,400",1,7810 Allscott Way, Raleigh,NC 27612,NC,27612,2022-12-03
+359,"2901 Market Bridge Ln APT 105, Raleigh, NC 27608","$598,900",2,2,"1,475",1,2901 Market Bridge Ln APT 105, Raleigh,NC 27608,NC,27608,2022-12-03
+360,"2801 Crestline Ave, Raleigh, NC 27603","$295,000",3,1,"1,092",5,2801 Crestline Ave, Raleigh,NC 27603,NC,27603,2022-12-03
+361,"242 Pecan Rd, Raleigh, NC 27603","$399,900",3,2,"1,695",1,242 Pecan Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+362,"10510 Rosegate Ct UNIT 306, Raleigh, NC 27617","$330,000",2,2,"1,416",3,10510 Rosegate Ct UNIT 306, Raleigh,NC 27617,NC,27617,2022-12-03
+363,"1506 Joe Louis Ave, Raleigh, NC 27610","$557,000",3,3,"1,820",1,1506 Joe Louis Ave, Raleigh,NC 27610,NC,27610,2022-12-03
+364,"3230 Landing Falls Ln, Raleigh, NC 27616","$377,000",3,3,"2,092",7,3230 Landing Falls Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+365,"1439 Garner Rd, Raleigh, NC 27610","$550,000",4,3,"1,855",1,1439 Garner Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+366,"7712 Cart Track Trl, Raleigh, NC 27615","$338,000",3,2,"1,389",8,7712 Cart Track Trl, Raleigh,NC 27615,NC,27615,2022-12-03
+367,"4017 Whitney Peak Dr, Raleigh, NC 27616","$403,340",4,3,"2,134",5,4017 Whitney Peak Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+368,"1516 Crafton Way, Raleigh, NC 27607","$675,000",4,3,"2,925",5,1516 Crafton Way, Raleigh,NC 27607,NC,27607,2022-12-03
+369,"2800 Romealia Ln, Raleigh, NC 27613","$899,000",5,5,"3,368",5,2800 Romealia Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+370,"4324 Oak Park Rd, Raleigh, NC 27612","$565,000",4,3,"2,772",7,4324 Oak Park Rd, Raleigh,NC 27612,NC,27612,2022-12-03
+371,"616 E Cabarrus St, Raleigh, NC 27601","$1,100,000",4,3,"2,577",4,616 E Cabarrus St, Raleigh,NC 27601,NC,27601,2022-12-03
+372,"9709 Dayton Ct, Raleigh, NC 27617","$950,000",5,5,"4,165",1,9709 Dayton Ct, Raleigh,NC 27617,NC,27617,2022-12-03
+373,"3605 Octavia St, Raleigh, NC 27606","$575,000",4,3,"2,622",8,3605 Octavia St, Raleigh,NC 27606,NC,27606,2022-12-03
+374,"2709 Sanctuary Woods Ln, Raleigh, NC 27606","$1,400,000",4,5,"4,762",4,2709 Sanctuary Woods Ln, Raleigh,NC 27606,NC,27606,2022-12-03
+375,"2433 Sunnystone Way, Raleigh, NC 27613","$715,000",4,3,"2,919",3,2433 Sunnystone Way, Raleigh,NC 27613,NC,27613,2022-12-03
+376,"8004 Haymarket Ln, Raleigh, NC 27615","$462,500",3,2,"1,655",4,8004 Haymarket Ln, Raleigh,NC 27615,NC,27615,2022-12-03
+377,"4516 Ocean Crest Cir, Raleigh, NC 27603","$495,000",3,3,"2,490",7,4516 Ocean Crest Cir, Raleigh,NC 27603,NC,27603,2022-12-03
+378,"8201 Clarks Branch Dr, Raleigh, NC 27613","$775,000",4,4,"3,411",3,8201 Clarks Branch Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+379,"9821 Rockledge Dr, Raleigh, NC 27617","$525,000",4,4,"2,827",2,9821 Rockledge Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+380,"8010 Upper Lake Dr, Raleigh, NC 27615","$515,000",3,3,"2,217",1,8010 Upper Lake Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+381,"2039 Travern Dr, Raleigh, NC 27603","$600,000",4,3,"2,983",2,2039 Travern Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+382,"5045 Dawn Piper Dr, Raleigh, NC 27613","$355,000",3,3,"1,562",1,5045 Dawn Piper Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+383,"5533 Red Robin Rd, Raleigh, NC 27613","$340,000",2,4,"1,937",1,5533 Red Robin Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+384,"4617 Fox Rd, Raleigh, NC 27616","$369,900",3,3,"1,590",2,4617 Fox Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+385,"834 Bankston Woods Way, Raleigh, NC 27609","$575,000",4,4,"2,157",5,834 Bankston Woods Way, Raleigh,NC 27609,NC,27609,2022-12-03
+386,"7917 Sutterton Ct, Raleigh, NC 27615","$599,000",3,2,"2,203",2,7917 Sutterton Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+387,"301 Fayetteville St UNIT 2914, Raleigh, NC 27601","$835,000",2,2,"1,588",7,301 Fayetteville St UNIT 2914, Raleigh,NC 27601,NC,27601,2022-12-03
+388,"9413 Lake Villa Way, Raleigh, NC 27614","$595,000",3,3,"2,474",3,9413 Lake Villa Way, Raleigh,NC 27614,NC,27614,2022-12-03
+389,"6309 Johnsdale Rd, Raleigh, NC 27615","$499,990",4,2,"3,449",8,6309 Johnsdale Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+390,"829 Cumberland St #100, Raleigh, NC 27610","$495,000",3,3,"1,714",9,829 Cumberland St #100, Raleigh,NC 27610,NC,27610,2022-12-03
+391,"7024 Longstreet Dr #B, Raleigh, NC 27615","$216,000",2,2,"1,031",6,7024 Longstreet Dr #B, Raleigh,NC 27615,NC,27615,2022-12-03
+392,"2044 Muirfield Village Way, Raleigh, NC 27604","$475,000",5,3,"3,483",1,2044 Muirfield Village Way, Raleigh,NC 27604,NC,27604,2022-12-03
+393,"6444 Perry Creek Rd, Raleigh, NC 27616","$350,000",3,4,"1,830",4,6444 Perry Creek Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+394,"6212 Braidwood Ct, Raleigh, NC 27612","$405,000",4,4,"2,227",1,6212 Braidwood Ct, Raleigh,NC 27612,NC,27612,2022-12-03
+395,"5801 Hampton Ridge Rd, Raleigh, NC 27603","$375,000",3,3,"2,207",1,5801 Hampton Ridge Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+396,"5538 Wade Park Blvd, Raleigh, NC 27607","$662,000",4,4,"2,837",5,5538 Wade Park Blvd, Raleigh,NC 27607,NC,27607,2022-12-03
+397,"403 Dennis Ave, Raleigh, NC 27604","$572,500",3,2,"1,340",4,403 Dennis Ave, Raleigh,NC 27604,NC,27604,2022-12-03
+398,"405 Inclusion Way, Raleigh, NC 27610","$396,990",3,3,"1,528",1,405 Inclusion Way, Raleigh,NC 27610,NC,27610,2022-12-03
+399,"5 N Swain St, Raleigh, NC 27601","$1,495,000",3,4,"2,829",5,5 N Swain St, Raleigh,NC 27601,NC,27601,2022-12-03
+400,"815 S Person St, Raleigh, NC 27601","$750,000",3,3,"1,706",2,815 S Person St, Raleigh,NC 27601,NC,27601,2022-12-03
+401,"11149 Bayberry Hills Dr, Raleigh, NC 27617","$592,500",3,2,"2,004",5,11149 Bayberry Hills Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+402,"4817 Latimer Rd, Raleigh, NC 27609","$631,000",4,2,"1,608",7,4817 Latimer Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+403,"6712 Millbridge Ct, Raleigh, NC 27615","$450,000",3,2,"1,460",6,6712 Millbridge Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+404,"312 Freeman St, Raleigh, NC 27601","$694,900",4,4,"2,211",1,312 Freeman St, Raleigh,NC 27601,NC,27601,2022-12-03
+405,"2815 Bedfordshire Ct, Raleigh, NC 27604","$299,000",2,3,"1,269",1,2815 Bedfordshire Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+406,"1001 Nicholwood Dr APT 205, Raleigh, NC 27605","$399,000",2,2,"1,065",3,1001 Nicholwood Dr APT 205, Raleigh,NC 27605,NC,27605,2022-12-03
+407,"3300 Marcony Way, Raleigh, NC 27610","$309,000",3,2,"1,278",6,3300 Marcony Way, Raleigh,NC 27610,NC,27610,2022-12-03
+408,"3213 Huntleigh Dr, Raleigh, NC 27604","$410,000",4,3,"1,923",2,3213 Huntleigh Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+409,"7615 Cape Charles Dr, Raleigh, NC 27617","$599,900",4,3,"2,932",1,7615 Cape Charles Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+410,"7312 Cape Charles Dr, Raleigh, NC 27617","$425,000",3,2,"1,755",5,7312 Cape Charles Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+411,"1422 Pineview Dr, Raleigh, NC 27606","$595,900",4,4,"1,878",2,1422 Pineview Dr, Raleigh,NC 27606,NC,27606,2022-12-03
+412,"8493 Central Dr, Raleigh, NC 27613","$324,900",2,3,"1,404",1,8493 Central Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+413,"1105 Swallow Falls Ln, Raleigh, NC 27614","$2,390,000",5,6,"6,734",6,1105 Swallow Falls Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+414,"8709 Langtree Ln, Raleigh, NC 27613","$675,000",3,4,"3,077",3,8709 Langtree Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+415,"724 S State St, Raleigh, NC 27601","$619,800",4,3,"1,953",2,724 S State St, Raleigh,NC 27601,NC,27601,2022-12-03
+416,"1421 Millstone Landing Dr, Raleigh, NC 27603","$849,900",4,5,"4,672",5,1421 Millstone Landing Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+417,"6016 Colonial Dr, Raleigh, NC 27603","$210,000",2,1,930,1,6016 Colonial Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+418,"205 Woodburn Rd, Raleigh, NC 27605","$1,200,000",4,3,"2,381",2,205 Woodburn Rd, Raleigh,NC 27605,NC,27605,2022-12-03
+419,"7525 S Tanglewild Dr, Raleigh, NC 27613","$1,950,000",5,4,"5,376",8,7525 S Tanglewild Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+420,"7820 Falcon Rest Cir #7820, Raleigh, NC 27615","$260,000",3,3,"1,324",8,7820 Falcon Rest Cir #7820, Raleigh,NC 27615,NC,27615,2022-12-03
+421,"5801 Wynmore Rd, Raleigh, NC 27610","$354,000",4,3,"1,980",9,5801 Wynmore Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+422,"504 Hanska Way, Raleigh, NC 27610","$344,500",3,3,"1,538",2,504 Hanska Way, Raleigh,NC 27610,NC,27610,2022-12-03
+423,"3716 Carnegie Ln, Raleigh, NC 27612","$405,000",3,2,"1,887",5,3716 Carnegie Ln, Raleigh,NC 27612,NC,27612,2022-12-03
+424,"6813 Foxfire Pl, Raleigh, NC 27615","$949,900",6,4,"3,421",2,6813 Foxfire Pl, Raleigh,NC 27615,NC,27615,2022-12-03
+425,"1101 Hobson Ct, Raleigh, NC 27607","$750,000",4,3,"3,513",5,1101 Hobson Ct, Raleigh,NC 27607,NC,27607,2022-12-03
+426,"2313 August Way, Raleigh, NC 27610","$339,500",3,3,"1,653",2,2313 August Way, Raleigh,NC 27610,NC,27610,2022-12-03
+427,"4317 Grassy Field Dr, Raleigh, NC 27610","$429,000",3,3,"2,058",1,4317 Grassy Field Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+428,"3703 Hester Cir, Raleigh, NC 27604","$297,000",3,2,"1,257",2,3703 Hester Cir, Raleigh,NC 27604,NC,27604,2022-12-03
+429,"5209 Edgewood Rd, Raleigh, NC 27609","$475,000",4,3,"1,996",1,5209 Edgewood Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+430,"5921 Paducah Dr, Raleigh, NC 27610","$335,000",3,3,"1,884",9,5921 Paducah Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+431,"615 Daniels St #316, Raleigh, NC 27605","$399,900",1,1,639,5,615 Daniels St #316, Raleigh,NC 27605,NC,27605,2022-12-03
+432,"3506 Bellevue Rd, Raleigh, NC 27609","$600,000","10,018.8 Square Feet",3 days,363,7,3506 Bellevue Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+433,"10934 Connally Ln, Raleigh, NC 27614","$435,000",3,2,"1,838",5,10934 Connally Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+434,"10825 Farmville Rd, Raleigh, NC 27614","$308,000",2,2,"1,113",9,10825 Farmville Rd, Raleigh,NC 27614,NC,27614,2022-12-03
+435,"1412 Banks Brooke Dr LOT 154, Raleigh, NC 27603","$839,900",4,4,"3,985",6,1412 Banks Brooke Dr LOT 154, Raleigh,NC 27603,NC,27603,2022-12-03
+436,"1808 Hilton St, Raleigh, NC 27608","$1,200,000",5,4,"3,049",8,1808 Hilton St, Raleigh,NC 27608,NC,27608,2022-12-03
+437,"8234 Ebenezer Church Rd, Raleigh, NC 27617","$409,900",4,4,"1,933",1,8234 Ebenezer Church Rd, Raleigh,NC 27617,NC,27617,2022-12-03
+438,"1241 University Ct APT 304, Raleigh, NC 27606","$273,000",4,4,"1,219",4,1241 University Ct APT 304, Raleigh,NC 27606,NC,27606,2022-12-03
+439,"710 Harvey St, Raleigh, NC 27608","$470,000",2,3,"1,334",1,710 Harvey St, Raleigh,NC 27608,NC,27608,2022-12-03
+440,"1317 Greenbranch Ln, Raleigh, NC 27603","$321,000",3,3,"1,536",1,1317 Greenbranch Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+441,"2905 Bardwell Rd, Raleigh, NC 27604","$291,000",3,1,"1,114",6,2905 Bardwell Rd, Raleigh,NC 27604,NC,27604,2022-12-03
+442,"829 Mill Greens Ct, Raleigh, NC 27609","$434,900",3,3,"1,666",2,829 Mill Greens Ct, Raleigh,NC 27609,NC,27609,2022-12-03
+443,"2509 Torbay Ct, Raleigh, NC 27613","$415,000",3,3,"2,045",2,2509 Torbay Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+444,"5012 Isabella Cannon Dr, Raleigh, NC 27612","$650,000",4,4,"3,621",7,5012 Isabella Cannon Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+445,"2613 Quarry Ridge Ln, Raleigh, NC 27610","$334,500",3,3,"1,803",5,2613 Quarry Ridge Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+446,"14314 Foxcroft Rd, Raleigh, NC 27614","$319,900",3,3,"1,686",3,14314 Foxcroft Rd, Raleigh,NC 27614,NC,27614,2022-12-03
+447,"11817 N Exeter Way, Raleigh, NC 27613","$364,000",3,2,"1,440",6,11817 N Exeter Way, Raleigh,NC 27613,NC,27613,2022-12-03
+448,"401 Plainview Ave, Raleigh, NC 27604","$500,000",2,1,750,1,401 Plainview Ave, Raleigh,NC 27604,NC,27604,2022-12-03
+449,"7257 Manor Oaks Dr, Raleigh, NC 27615","$1,199,000",5,4,"3,921",4,7257 Manor Oaks Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+450,"12309 Creedmoor Rd, Raleigh, NC 27614","$1,275,000",4,5,"5,015",4,12309 Creedmoor Rd, Raleigh,NC 27614,NC,27614,2022-12-03
+451,"491 Seastone St, Raleigh, NC 27603","$425,000",3,3,"2,537",5,491 Seastone St, Raleigh,NC 27603,NC,27603,2022-12-03
+452,"5909 Giddings St, Raleigh, NC 27616","$425,000",4,4,"2,182",3,5909 Giddings St, Raleigh,NC 27616,NC,27616,2022-12-03
+453,"6413 New Market Way #6413, Raleigh, NC 27615","$294,900",3,3,"1,370",2,6413 New Market Way #6413, Raleigh,NC 27615,NC,27615,2022-12-03
+454,"6605 Mountain Brook Ln, Raleigh, NC 27615","$485,000",4,3,"2,217",3,6605 Mountain Brook Ln, Raleigh,NC 27615,NC,27615,2022-12-03
+455,"324 Mickleson Ridge Dr, Raleigh, NC 27603","$445,000",4,3,"2,955",6,324 Mickleson Ridge Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+456,"6024 Wintergreen Dr, Raleigh, NC 27609","$699,900",4,3,"2,111",1,6024 Wintergreen Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+457,"7318 Carlton Dr, Raleigh, NC 27616","$499,000",3,3,"2,453",2,7318 Carlton Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+458,"704 Resplendent Pl, Raleigh, NC 27603","$549,900",3,3,"2,580",1,704 Resplendent Pl, Raleigh,NC 27603,NC,27603,2022-12-03
+459,"1200 Capability Dr #103, Raleigh, NC 27606","$374,900",2,3,"1,289",1,1200 Capability Dr #103, Raleigh,NC 27606,NC,27606,2022-12-03
+460,"4705 Crescent Square St #1308, Raleigh, NC 27616","$447,660",4,3,"2,541",5,4705 Crescent Square St #1308, Raleigh,NC 27616,NC,27616,2022-12-03
+461,"617 Barksdale Dr, Raleigh, NC 27604","$485,000",4,3,"2,027",9,617 Barksdale Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+462,"6830 Resting Grove Rd, Raleigh, NC 27610","$389,000",3,3,"2,266",2,6830 Resting Grove Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+463,"2100 Thorpshire Dr, Raleigh, NC 27615","$650,000",3,3,"3,133",4,2100 Thorpshire Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+464,"1425 Nottingham Rd, Raleigh, NC 27607","$1,800,000",5,6,"4,737",1,1425 Nottingham Rd, Raleigh,NC 27607,NC,27607,2022-12-03
+465,"512 Worth St, Raleigh, NC 27601","$795,000",3,3,"1,773",3,512 Worth St, Raleigh,NC 27601,NC,27601,2022-12-03
+466,"2430 Condor Ct, Raleigh, NC 27615","$282,000",3,3,"1,310",1,2430 Condor Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+467,"9801 Pine Meadow Ln, Raleigh, NC 27615","$949,000",3,4,"3,829",3,9801 Pine Meadow Ln, Raleigh,NC 27615,NC,27615,2022-12-03
+468,"5309 Falls Of Neuse Rd, Raleigh, NC 27609","$510,000",4,4,"2,196",8,5309 Falls Of Neuse Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+469,"1216 Hannahs View Dr, Raleigh, NC 27615","$1,650,000",4,5,"4,261",1,1216 Hannahs View Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+470,"1400 Barony Lake Way, Raleigh, NC 27614","$3,195,000",5,5,"5,992",8,1400 Barony Lake Way, Raleigh,NC 27614,NC,27614,2022-12-03
+471,"6212 Lewisand Cir, Raleigh, NC 27615","$549,000",4,3,"2,600",5,6212 Lewisand Cir, Raleigh,NC 27615,NC,27615,2022-12-03
+472,"2254 Lazy River Dr, Raleigh, NC 27610","$396,000",4,3,"2,308",9,2254 Lazy River Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+473,"5518 Spindlewood Ct, Durham, NC 27703","$475,000",4,3,"2,278",1,5518 Spindlewood Ct, Durham,NC 27703,NC,27703,2022-12-03
+474,"905 Moye Dr, Raleigh, NC 27606","$659,000",4,3,"2,625",1,905 Moye Dr, Raleigh,NC 27606,NC,27606,2022-12-03
+475,"2027 Turtle Point Dr, Raleigh, NC 27604","$250,000",2,3,"1,244",4,2027 Turtle Point Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+476,"8409 Aptos Ct, Raleigh, NC 27613","$824,900",6,5,"4,124",2,8409 Aptos Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+477,"1700 Crag Burn Ln, Raleigh, NC 27604","$322,000",3,3,"1,619",1,1700 Crag Burn Ln, Raleigh,NC 27604,NC,27604,2022-12-03
+478,"3926 Milltown Ridge Run, Raleigh, NC 27612","$489,236",3,4,"2,098",4,3926 Milltown Ridge Run, Raleigh,NC 27612,NC,27612,2022-12-03
+479,"2100 Oakcrest Ct, Raleigh, NC 27612","$724,800",3,3,"2,857",1,2100 Oakcrest Ct, Raleigh,NC 27612,NC,27612,2022-12-03
+480,"5959 Dixon Dr, Raleigh, NC 27609","$399,999",3,4,"2,217",3,5959 Dixon Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+481,"3317 Skycrest Dr, Raleigh, NC 27604","$441,000",4,3,"2,068",1,3317 Skycrest Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+482,"1302 Dogwood Ln, Raleigh, NC 27607","$725,000",3,2,"1,320",2,1302 Dogwood Ln, Raleigh,NC 27607,NC,27607,2022-12-03
+483,"12827 Tee Time Way, Raleigh, NC 27614","$375,000",3,3,"1,711",7,12827 Tee Time Way, Raleigh,NC 27614,NC,27614,2022-12-03
+484,"2110 Woodview Dr, Raleigh, NC 27604","$525,000",3,1,"1,189",2,2110 Woodview Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+485,"909 Oberlin Rd, Raleigh, NC 27605","$525,000",0.26 Acres,3 days,184,3,909 Oberlin Rd, Raleigh,NC 27605,NC,27605,2022-12-03
+486,"1213 Glendale Dr, Raleigh, NC 27612","$1,230,000",4,4,"3,967",4,1213 Glendale Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+487,"9350 Wooden Rd, Raleigh, NC 27617","$449,000",4,4,"2,224",2,9350 Wooden Rd, Raleigh,NC 27617,NC,27617,2022-12-03
+488,"1203 E Lane St, Raleigh, NC 27601","$695,000",3,3,"1,900",5,1203 E Lane St, Raleigh,NC 27601,NC,27601,2022-12-03
+489,"1308 Manovill Pl, Raleigh, NC 27609","$595,000",4,3,"2,613",5,1308 Manovill Pl, Raleigh,NC 27609,NC,27609,2022-12-03
+490,"313 Lord Ashley Rd, Raleigh, NC 27610","$689,900",4,2,"2,383",7,313 Lord Ashley Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+491,"3132 Ashel St, Raleigh, NC 27612","$2,695,000",5,6,"5,470",2,3132 Ashel St, Raleigh,NC 27612,NC,27612,2022-12-03
+492,"7232 Ewing Pl, Raleigh, NC 27616","$319,900",3,3,"1,402",1,7232 Ewing Pl, Raleigh,NC 27616,NC,27616,2022-12-03
+493,"9606 Clubvalley Way, Raleigh, NC 27617","$1,100,000",5,5,"4,350",4,9606 Clubvalley Way, Raleigh,NC 27617,NC,27617,2022-12-03
+494,"4424 Captain Falls Dr, Raleigh, NC 27610","$374,900",4,3,"2,060",1,4424 Captain Falls Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+495,"2605 Tealin Ln, Raleigh, NC 27606","$1,350,000",4,6,"4,300",1,2605 Tealin Ln, Raleigh,NC 27606,NC,27606,2022-12-03
+496,"9307 Sevillanos Walk, Raleigh, NC 27617","$525,000",3,3,"2,219",7,9307 Sevillanos Walk, Raleigh,NC 27617,NC,27617,2022-12-03
+497,"1002 Lake Boone Trl, Raleigh, NC 27607","$3,900,000",5,9,"11,758",1,1002 Lake Boone Trl, Raleigh,NC 27607,NC,27607,2022-12-03
+498,"1038 High Lake Ct, Raleigh, NC 27606","$440,000",3,2,"1,935",3,1038 High Lake Ct, Raleigh,NC 27606,NC,27606,2022-12-03
+499,"3420 Hackney Ct, Raleigh, NC 27613","$575,000",3,3,"2,394",7,3420 Hackney Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+500,"1716 Pinedale Dr, Raleigh, NC 27603","$474,400",4,3,"2,500",7,1716 Pinedale Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+501,"6133 Bushmills St, Raleigh, NC 27613","$239,900",2,2,"1,175",1,6133 Bushmills St, Raleigh,NC 27613,NC,27613,2022-12-03
+502,"1504 Tawny View Ln, Raleigh, NC 27603","$459,990",3,3,"2,185",5,1504 Tawny View Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+503,"1425 Whittington Dr, Raleigh, NC 27614","$569,000",4,3,"2,650",8,1425 Whittington Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+504,"1315 E Lane St, Raleigh, NC 27610","$1,843,200",--,--,--,4,1315 E Lane St, Raleigh,NC 27610,NC,27610,2022-12-03
+505,"2933 Mount Vernon Church Rd, Raleigh, NC 27613","$185,000",0.77 Acres,540 days,834,1,2933 Mount Vernon Church Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+506,"2315 Stevens Rd, Raleigh, NC 27610","$375,000",3,2,"1,024",4,2315 Stevens Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+507,"5913 Hourglass Ct, Raleigh, NC 27612","$399,500",3,3,"1,988",7,5913 Hourglass Ct, Raleigh,NC 27612,NC,27612,2022-12-03
+508,"2601 Tealin Ln, Raleigh, NC 27606","$1,225,000",5,5,"4,164",2,2601 Tealin Ln, Raleigh,NC 27606,NC,27606,2022-12-03
+509,"2740 Peachleaf St, Raleigh, NC 27614","$675,000",5,4,"3,200",1,2740 Peachleaf St, Raleigh,NC 27614,NC,27614,2022-12-03
+510,"4512 Latrobe Ct, Raleigh, NC 27604","$355,000",4,3,"1,747",7,4512 Latrobe Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+511,"9917 Miranda Dr, Raleigh, NC 27617","$519,990",4,3,"2,806",7,9917 Miranda Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+512,"107 Galloway Ct, Raleigh, NC 27615","$320,000",3,3,"1,536",6,107 Galloway Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+513,"13026 Edsel Dr, Raleigh, NC 27613","$674,900",4,4,"3,052",9,13026 Edsel Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+514,"2809 Peachleaf St, Raleigh, NC 27614","$539,900",4,3,"2,650",1,2809 Peachleaf St, Raleigh,NC 27614,NC,27614,2022-12-03
+515,"4503 Antique Ln, Raleigh, NC 27616","$247,000",2,3,"1,293",5,4503 Antique Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+516,"7024 Longstreet Dr #A, Raleigh, NC 27615","$209,900",2,2,"1,015",2,7024 Longstreet Dr #A, Raleigh,NC 27615,NC,27615,2022-12-03
+517,"8516 Micollet Ct, Raleigh, NC 27613","$329,600",2,2,"1,323",2,8516 Micollet Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+518,"2631 Cloud Mist Cir, Raleigh, NC 27614","$385,000",3,3,"2,101",3,2631 Cloud Mist Cir, Raleigh,NC 27614,NC,27614,2022-12-03
+519,"1124 Hobson Ct, Raleigh, NC 27607","$995,000",4,4,"3,130",5,1124 Hobson Ct, Raleigh,NC 27607,NC,27607,2022-12-03
+520,"3921 Milltown Ridge Run, Raleigh, NC 27612","$548,480",3,4,"2,100",D,3921 Milltown Ridge Run, Raleigh,NC 27612,NC,27612,2022-12-03
+521,"5324 Poyner Rd, Raleigh, NC 27612","$1,375,000",5,6,"5,526",6,5324 Poyner Rd, Raleigh,NC 27612,NC,27612,2022-12-03
+522,"10434 Dapping Dr, Raleigh, NC 27614","$399,990",3,3,"1,905",2,10434 Dapping Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+523,"11204 Trescott Ct, Raleigh, NC 27614","$1,975,000",4,8,"8,975",4,11204 Trescott Ct, Raleigh,NC 27614,NC,27614,2022-12-03
+524,"4213 Timberbrook Dr, Raleigh, NC 27616","$319,900",3,2,"1,235",2,4213 Timberbrook Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+525,"1201 Westview Ln APT 203, Raleigh, NC 27605","$299,900",1,1,800,1,1201 Westview Ln APT 203, Raleigh,NC 27605,NC,27605,2022-12-03
+526,"3510 Glenraven Dr, Raleigh, NC 27604","$354,000",3,2,"1,749",9,3510 Glenraven Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+527,"2603 Sterling Park Dr, Raleigh, NC 27603","$290,000",2,3,"1,216",1,2603 Sterling Park Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+528,"3319 White Oak Rd, Raleigh, NC 27609","$4,995,000",6,11,"20,283",7,3319 White Oak Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+529,"5636 N Hawthorne Way, Raleigh, NC 27613","$524,999",4,3,"2,218",9,5636 N Hawthorne Way, Raleigh,NC 27613,NC,27613,2022-12-03
+530,"1100 Bancroft St, Raleigh, NC 27612","$869,900",4,3,"2,780",4,1100 Bancroft St, Raleigh,NC 27612,NC,27612,2022-12-03
+531,"5032 Big Creek Rd, Raleigh, NC 27613","$750,000",4,3,"3,331",4,5032 Big Creek Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+532,"1309 Sycamore St, Raleigh, NC 27604","$1,200,000",4,4,"2,911",1,1309 Sycamore St, Raleigh,NC 27604,NC,27604,2022-12-03
+533,"730 Washington St UNIT 305, Raleigh, NC 27605","$387,000",2,2,"1,136",9,730 Washington St UNIT 305, Raleigh,NC 27605,NC,27605,2022-12-03
+534,"9108 Wooden Rd, Raleigh, NC 27617","$465,000",4,4,"2,206",2,9108 Wooden Rd, Raleigh,NC 27617,NC,27617,2022-12-03
+535,"5809 Parkchester Rd, Raleigh, NC 27616","$424,000",3,3,"3,109",1,5809 Parkchester Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+536,"335 Challenge Rd, Raleigh, NC 27603","$779,500",4,4,"5,133",6,335 Challenge Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+537,"7215 Monarda Ct, Raleigh, NC 27616","$379,900",3,3,"1,666",1,7215 Monarda Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+538,"3500 Willow Bluff Dr, Raleigh, NC 27604","$675,000",4,3,"2,298",3,3500 Willow Bluff Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+539,"1425 Silver Farm Rd, Raleigh, NC 27603","$430,000",3,2,"1,927",2,1425 Silver Farm Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+540,"8641 Harps Mill Rd, Raleigh, NC 27615","$440,000",4,3,"2,433",1,8641 Harps Mill Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+541,"1009 Helms Pl, Raleigh, NC 27610","$420,000",3,2,"1,325",1,1009 Helms Pl, Raleigh,NC 27610,NC,27610,2022-12-03
+542,"4803 Boulder Falls Ct, Knightdale, NC 27545","$499,900",4,3,"2,570",4,4803 Boulder Falls Ct, Knightdale,NC 27545,NC,27545,2022-12-03
+543,"2201 White Oak Rd, Raleigh, NC 27608","$3,600,000",5,7,"6,393",5,2201 White Oak Rd, Raleigh,NC 27608,NC,27608,2022-12-03
+544,"1016 Chapanoke Rd, Raleigh, NC 27603","$567,500",4,4,"2,786",3,1016 Chapanoke Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+545,"7705 Tylerton Dr, Raleigh, NC 27613","$699,000",4,3,"2,874",9,7705 Tylerton Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+546,"1741 Farmington Grove Dr, Raleigh, NC 27614","$495,000",4,3,"2,025",5,1741 Farmington Grove Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+547,"4016 Landover Peak Pl, Raleigh, NC 27616","$490,000",4,3,"2,925",3,4016 Landover Peak Pl, Raleigh,NC 27616,NC,27616,2022-12-03
+548,"1116 Alcott Ct, Raleigh, NC 27609","$634,000",4,3,"2,531",8,1116 Alcott Ct, Raleigh,NC 27609,NC,27609,2022-12-03
+549,"2704 Charleston Oaks Dr, Raleigh, NC 27614","$849,900",5,6,"5,404",1,2704 Charleston Oaks Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+550,"523 Princeton St, Raleigh, NC 27609","$599,999",4,3,"1,872",1,523 Princeton St, Raleigh,NC 27609,NC,27609,2022-12-03
+551,"11915 Shooting Club Rd, Raleigh, NC 27613","$774,995",4,3,"3,608",5,11915 Shooting Club Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+552,"1513 Starry Night Ct, Raleigh, NC 27613","$1,325,500",4,5,"4,362",4,1513 Starry Night Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+553,"100 Northbrook Dr APT 203, Raleigh, NC 27609","$499,000",3,2,"1,620",1,100 Northbrook Dr APT 203, Raleigh,NC 27609,NC,27609,2022-12-03
+554,"3020 Barrymore St UNIT 110, Raleigh, NC 27603","$289,999",3,3,"1,665",8,3020 Barrymore St UNIT 110, Raleigh,NC 27603,NC,27603,2022-12-03
+555,"5601 Orchard Gate Way, Raleigh, NC 27616","$397,000",4,3,"1,959",9,5601 Orchard Gate Way, Raleigh,NC 27616,NC,27616,2022-12-03
+556,"4633 Tollington Dr, Raleigh, NC 27604","$400,000",4,3,"1,985",2,4633 Tollington Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+557,"5124 Thornton Knoll Way, Raleigh, NC 27616","$279,995",3,3,"1,360",3,5124 Thornton Knoll Way, Raleigh,NC 27616,NC,27616,2022-12-03
+558,"5619 Severn Grove Dr, Durham, NC 27703","$428,000",4,3,"2,332",1,5619 Severn Grove Dr, Durham,NC 27703,NC,27703,2022-12-03
+559,"7009 Sorrell Ln, Raleigh, NC 27603","$82,000",0.61 Acres,123 days,998,2,7009 Sorrell Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+560,"6013 Crescent Knoll Dr, Raleigh, NC 27614","$1,395,000",5,5,"6,444",4,6013 Crescent Knoll Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+561,"301 Bickett Boulevard, Raleigh, NC 27608","$519,000",2,2,"1,488",4,301 Bickett Boulevard, Raleigh,NC 27608,NC,27608,2022-12-03
+562,"309 Mickleson Ridge Dr, Raleigh, NC 27603","$499,900",4,3,"2,867",5,309 Mickleson Ridge Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+563,"429 Mountain Lake Dr, Raleigh, NC 27610","$351,000",3,3,"1,710",2,429 Mountain Lake Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+564,"12020 Old Creedmoor Rd, Raleigh, NC 27613","$534,000",4,3,"2,916",1,12020 Old Creedmoor Rd, Raleigh,NC 27613,NC,27613,2022-12-03
+565,"12 Lynn Rd, Raleigh, NC 27609","$425,000",4,3,"2,075",8,12 Lynn Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+566,"5211 Invention Way #3248, Raleigh, NC 27616","$328,740",3,4,"1,733",1,5211 Invention Way #3248, Raleigh,NC 27616,NC,27616,2022-12-03
+567,"8143 Feldwig Pl, Raleigh, NC 27616","$447,800",4,3,"2,392",2,8143 Feldwig Pl, Raleigh,NC 27616,NC,27616,2022-12-03
+568,"8825 Walking Stick Trl, Raleigh, NC 27615","$461,000",4,3,"2,739",1,8825 Walking Stick Trl, Raleigh,NC 27615,NC,27615,2022-12-03
+569,"8912 Willow Wood Ct, Raleigh, NC 27613","$699,900",4,4,"3,165",1,8912 Willow Wood Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+570,"5932 Eaglesfield Dr, Raleigh, NC 27613","$499,900",4,3,"2,040",2,5932 Eaglesfield Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+571,"6321 Falcon Knoll Cir, Raleigh, NC 27616","$425,000",3,3,"2,443",1,6321 Falcon Knoll Cir, Raleigh,NC 27616,NC,27616,2022-12-03
+572,"2204 Rangecrest Rd, Raleigh, NC 27612","$565,000",4,3,"2,261",6,2204 Rangecrest Rd, Raleigh,NC 27612,NC,27612,2022-12-03
+573,"1012 Parker St #A, Raleigh, NC 27607","$995,000",3,3,"1,947",8,1012 Parker St #A, Raleigh,NC 27607,NC,27607,2022-12-03
+574,"9612 Koupela Dr, Raleigh, NC 27615","$295,000",1.81 Acres,65 days,817,3,9612 Koupela Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+575,"5938 Shady Grove Cir, Raleigh, NC 27609","$265,000",2,3,"1,300",2,5938 Shady Grove Cir, Raleigh,NC 27609,NC,27609,2022-12-03
+576,"5515 Laurel Grove Ln, Raleigh, NC 27616","$385,000",3,2,"1,831",7,5515 Laurel Grove Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+577,"6033 Over Hadden Ct, Raleigh, NC 27614","$3,300,000",5,10,"9,430",5,6033 Over Hadden Ct, Raleigh,NC 27614,NC,27614,2022-12-03
+578,"3257 Groveshire Dr, Raleigh, NC 27616","$455,000",5,4,"3,073",1,3257 Groveshire Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+579,"12620 Victoria Woods Dr, Raleigh, NC 27613","$850,000",4,4,"3,803",6,12620 Victoria Woods Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+580,"612 Delany Dr, Raleigh, NC 27610","$399,900",4,3,"1,979",1,612 Delany Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+581,"1019 Cowper Dr, Raleigh, NC 27608","$4,975,000",5,8,"9,381",1,1019 Cowper Dr, Raleigh,NC 27608,NC,27608,2022-12-03
+582,"5707 Humanity Ln N #2459, Raleigh, NC 27616","$341,875",3,3,"1,924",2,5707 Humanity Ln N #2459, Raleigh,NC 27616,NC,27616,2022-12-03
+583,"720 S State St, Raleigh, NC 27601","$1,050,000",--,--,"4,757",7,720 S State St, Raleigh,NC 27601,NC,27601,2022-12-03
+584,"2120 Piney Brook Rd UNIT 101, Raleigh, NC 27614","$309,000",2,3,"1,278",2,2120 Piney Brook Rd UNIT 101, Raleigh,NC 27614,NC,27614,2022-12-03
+585,"3513 Brook Dr, Raleigh, NC 27609","$1,199,900",3,4,"2,720",2,3513 Brook Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+586,"2304 Gresham Lake Rd, Raleigh, NC 27615","$1,200,000",3,4,"3,332",3,2304 Gresham Lake Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+587,"1527 Brownairs Ln, Raleigh, NC 27610","$325,000",3,3,"1,612",1,1527 Brownairs Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+588,"3512 Williamsborough Ct, Raleigh, NC 27609","$3,500,000",5,5,"4,854",8,3512 Williamsborough Ct, Raleigh,NC 27609,NC,27609,2022-12-03
+589,"12908 Anglewood Ct, Raleigh, NC 27614","$6,180,000",6,8,"10,749",1,12908 Anglewood Ct, Raleigh,NC 27614,NC,27614,2022-12-03
+590,"116 Northbrook Dr APT 206, Raleigh, NC 27609","$449,000",3,2,"1,510",6,116 Northbrook Dr APT 206, Raleigh,NC 27609,NC,27609,2022-12-03
+591,"1124 Sandel Ln, Raleigh, NC 27603","$429,000",3,2,"2,432",2,1124 Sandel Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+592,"4408 Duraleigh Rd, Raleigh, NC 27612","$859,900",4,4,"3,260",1,4408 Duraleigh Rd, Raleigh,NC 27612,NC,27612,2022-12-03
+593,"5617 Horsewalk Cir, Raleigh, NC 27606","$784,000",4,3,"2,925",7,5617 Horsewalk Cir, Raleigh,NC 27606,NC,27606,2022-12-03
+594,"9147 Wooden Rd, Raleigh, NC 27617","$395,000",3,3,"1,655",1,9147 Wooden Rd, Raleigh,NC 27617,NC,27617,2022-12-03
+595,"2737 Banks Rd, Raleigh, NC 27603","$390,000",3,2,"1,589",1,2737 Banks Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+596,"817 Rosemont Ave, Raleigh, NC 27607","$1,595,000",5,5,"4,596",6,817 Rosemont Ave, Raleigh,NC 27607,NC,27607,2022-12-03
+597,"1009 Ileagnes Rd, Raleigh, NC 27603","$375,000",3,3,"1,888",5,1009 Ileagnes Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+598,"11700 Shavenrock Pl, Raleigh, NC 27613","$569,900",4,3,"2,483",5,11700 Shavenrock Pl, Raleigh,NC 27613,NC,27613,2022-12-03
+599,"7017 Rainwater Rd, Raleigh, NC 27615","$3,950,000",5,7,"5,804",1,7017 Rainwater Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+600,"6053 Epping Forest Dr, Raleigh, NC 27613","$345,000",2,2,"1,499",3,6053 Epping Forest Dr, Raleigh,NC 27613,NC,27613,2022-12-03
+601,"8220 Ebenezer Church Rd, Raleigh, NC 27617","$424,000",3,4,"1,950",1,8220 Ebenezer Church Rd, Raleigh,NC 27617,NC,27617,2022-12-03
+602,"819 S Person St, Raleigh, NC 27601","$750,000",3,3,"1,706",2,819 S Person St, Raleigh,NC 27601,NC,27601,2022-12-03
+603,"5705 Spring Glen Ln, Raleigh, NC 27616","$445,000",4,3,"2,425",2,5705 Spring Glen Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+604,"1625 Heron Pond St W LOT 128, Raleigh, NC 27604","$387,150",4,2,"1,775",1,1625 Heron Pond St W LOT 128, Raleigh,NC 27604,NC,27604,2022-12-03
+605,"3608 Althorp Dr, Raleigh, NC 27616","$415,000",4,3,"2,392",3,3608 Althorp Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+606,"2836 Van Dyke Ave, Raleigh, NC 27607","$1,095,000",4,4,"3,014",4,2836 Van Dyke Ave, Raleigh,NC 27607,NC,27607,2022-12-03
+607,"2901 Charleston Oaks Dr, Raleigh, NC 27614","$854,900",5,5,"5,856",2,2901 Charleston Oaks Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+608,"2106 Cloud Cover Ln, Raleigh, NC 27614","$524,000",4,3,"2,373",1,2106 Cloud Cover Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+609,"411 Dixie Trl, Raleigh, NC 27607","$995,000",4,3,"2,316",4,411 Dixie Trl, Raleigh,NC 27607,NC,27607,2022-12-03
+610,"7732 Astoria Pl, Raleigh, NC 27612","$360,000",3,3,"1,711",7,7732 Astoria Pl, Raleigh,NC 27612,NC,27612,2022-12-03
+611,"5105 Sandy Banks Rd, Raleigh, NC 27616","$302,000",3,3,"1,780",9,5105 Sandy Banks Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+612,"1709 Center Rd, Raleigh, NC 27608","$1,890,000",4,6,"3,663",4,1709 Center Rd, Raleigh,NC 27608,NC,27608,2022-12-03
+613,"723 S East St, Raleigh, NC 27601","$385,000",2,1,951,5,723 S East St, Raleigh,NC 27601,NC,27601,2022-12-03
+614,"8700 Stage Ford Rd, Raleigh, NC 27615","$699,000",5,4,"3,509",7,8700 Stage Ford Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+615,"5224 Crescent Square St, Raleigh, NC 27616","$569,900",4,4,"2,953",5,5224 Crescent Square St, Raleigh,NC 27616,NC,27616,2022-12-03
+616,"3818 Althorp Dr, Raleigh, NC 27616","$474,900",5,3,"3,118",5,3818 Althorp Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+617,"17 Saint Augustine Ave, Raleigh, NC 27610","$169,000","1,785.96 Square Feet",249 days,931,1,17 Saint Augustine Ave, Raleigh,NC 27610,NC,27610,2022-12-03
+618,"628 Bragg St, Raleigh, NC 27610","$449,900",3,3,"1,342",1,628 Bragg St, Raleigh,NC 27610,NC,27610,2022-12-03
+619,"1029 Harvey St, Raleigh, NC 27608","$2,900,000",5,6,"5,046",7,1029 Harvey St, Raleigh,NC 27608,NC,27608,2022-12-03
+620,"1917 Somerset Hills Ct, Raleigh, NC 27604","$415,000",3,3,"2,034",2,1917 Somerset Hills Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+621,"2222 Milburnie Rd, Raleigh, NC 27610","$665,000",3,3,"2,070",7,2222 Milburnie Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+622,"235 Grand Ave, Raleigh, NC 27606","$679,900",4,3,"2,433",3,235 Grand Ave, Raleigh,NC 27606,NC,27606,2022-12-03
+623,"5204 Coronado Dr, Raleigh, NC 27609","$750,000",5,3,"2,279",8,5204 Coronado Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+624,"6717 Johnsdale Rd, Raleigh, NC 27615","$505,000",3,3,"2,631",2,6717 Johnsdale Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+625,"3955 Massey Wood Trl, Raleigh, NC 27616","$450,000",4,3,"2,344",1,3955 Massey Wood Trl, Raleigh,NC 27616,NC,27616,2022-12-03
+626,"10774 Trego Trl, Raleigh, NC 27614","$1,695,000",5,6,"5,423",5,10774 Trego Trl, Raleigh,NC 27614,NC,27614,2022-12-03
+627,"2000 Pine Dr, Raleigh, NC 27608","$1,599,900",5,5,"3,685",1,2000 Pine Dr, Raleigh,NC 27608,NC,27608,2022-12-03
+628,"6856 Horseback Ln, Raleigh, NC 27610","$364,500",3,3,"1,871",5,6856 Horseback Ln, Raleigh,NC 27610,NC,27610,2022-12-03
+629,"4312 Whisperwood Dr, Raleigh, NC 27616","$324,900",3,3,"1,382",4,4312 Whisperwood Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+630,"11013 Maplecroft Ct, Raleigh, NC 27617","$459,000",3,3,"2,535",7,11013 Maplecroft Ct, Raleigh,NC 27617,NC,27617,2022-12-03
+631,"2708 Clark Ave, Raleigh, NC 27607","$1,025,000",5,4,"3,304",1,2708 Clark Ave, Raleigh,NC 27607,NC,27607,2022-12-03
+632,"1536 N King Charles Rd, Raleigh, NC 27610","$494,000",4,2,"1,702",7,1536 N King Charles Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+633,"1112 Shelley Rd, Raleigh, NC 27609","$1,595,000",5,5,"4,549",6,1112 Shelley Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+634,"5330 Stowecroft Ln, Raleigh, NC 27616","$440,000",4,3,"2,520",5,5330 Stowecroft Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+635,"2327 Champion Ct #2327, Raleigh, NC 27606","$303,000",2,3,"1,187",1,2327 Champion Ct #2327, Raleigh,NC 27606,NC,27606,2022-12-03
+636,"3220 Glenridge Dr, Raleigh, NC 27604","$364,000",3,2,"1,586",7,3220 Glenridge Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+637,"213 Georgetown Rd, Raleigh, NC 27608","$2,150,000",5,6,"4,127",1,213 Georgetown Rd, Raleigh,NC 27608,NC,27608,2022-12-03
+638,"7629 Weathered Oak Way, Raleigh, NC 27616","$367,000",3,3,"1,929",1,7629 Weathered Oak Way, Raleigh,NC 27616,NC,27616,2022-12-03
+639,"1908 Garner Glen Dr, Raleigh, NC 27603","$489,000",3,3,"2,686",7,1908 Garner Glen Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+640,"1709 Sierra Dr, Raleigh, NC 27603","$405,000",3,2,"1,747",6,1709 Sierra Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+641,"8307 Aspen Mountain Ct, Raleigh, NC 27616","$274,000",3,3,"1,408",1,8307 Aspen Mountain Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+642,"3701 Baron Cooper Pass UNIT 107, Raleigh, NC 27612","$625,000",3,3,"1,951",4,3701 Baron Cooper Pass UNIT 107, Raleigh,NC 27612,NC,27612,2022-12-03
+643,"1440 Collegiate Cir APT 101, Raleigh, NC 27606","$275,000",4,4,"1,219",4,1440 Collegiate Cir APT 101, Raleigh,NC 27606,NC,27606,2022-12-03
+644,"802 Cowper Dr, Raleigh, NC 27608","$1,200,000",4,3,"2,417",1,802 Cowper Dr, Raleigh,NC 27608,NC,27608,2022-12-03
+645,"1501 Liatris Ln, Raleigh, NC 27613","$1,350,000",5,5,"8,343",5,1501 Liatris Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+646,"1208 Kimberly Dr, Raleigh, NC 27609","$2,250,000",4,6,"4,909",2,1208 Kimberly Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+647,"1012 Chapanoke Rd, Raleigh, NC 27603","$525,000",3,3,"2,764",5,1012 Chapanoke Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+648,"2028 Stoneglen Ln, Raleigh, NC 27603","$434,900",4,3,"2,090",1,2028 Stoneglen Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+649,"3600 Star Trek Ct, Raleigh, NC 27604","$374,900",3,2,"1,263",2,3600 Star Trek Ct, Raleigh,NC 27604,NC,27604,2022-12-03
+650,"1124 Shadywood Ln, Raleigh, NC 27603","$480,000",3,4,"3,559",9,1124 Shadywood Ln, Raleigh,NC 27603,NC,27603,2022-12-03
+651,"3233 Landing Falls Ln, Raleigh, NC 27616","$464,000",4,4,"2,916",3,3233 Landing Falls Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+652,"11000 Feather Grass Ln, Raleigh, NC 27613","$356,000",3,3,"1,360",1,11000 Feather Grass Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+653,"1508 Brassfield Rd, Raleigh, NC 27614","$325,000",0.99 Acres,13 days,525,2,1508 Brassfield Rd, Raleigh,NC 27614,NC,27614,2022-12-03
+654,"10421 Rosegate Ct UNIT 201, Raleigh, NC 27617","$334,500",2,2,"1,447",1,10421 Rosegate Ct UNIT 201, Raleigh,NC 27617,NC,27617,2022-12-03
+655,"4836 Parker Meadow Dr, Raleigh, NC 27614","$4,750,000",6,9,"7,074",1,4836 Parker Meadow Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+656,"515 E Cabarrus St, Raleigh, NC 27601","$355,000","3,049.2 Square Feet",8 days,411,1,515 E Cabarrus St, Raleigh,NC 27601,NC,27601,2022-12-03
+657,"2532 Beech Gap Ct, Raleigh, NC 27603","$489,900",3,3,"2,088",5,2532 Beech Gap Ct, Raleigh,NC 27603,NC,27603,2022-12-03
+658,"3724 Massey Ridge Ct, Raleigh, NC 27616","$525,000",5,3,"2,582",4,3724 Massey Ridge Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+659,"6412 Sparkling Brook Dr, Raleigh, NC 27616","$404,000",4,3,"2,496",9,6412 Sparkling Brook Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+660,"615 W Peace St #302, Raleigh, NC 27605","$554,900",2,2,974,2,615 W Peace St #302, Raleigh,NC 27605,NC,27605,2022-12-03
+661,"6308 Saybrooke Dr, Raleigh, NC 27604","$325,000",3,2,"1,125",6,6308 Saybrooke Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+662,"5716 Enoree Ln, Raleigh, NC 27616","$390,000",3,3,"1,838",D,5716 Enoree Ln, Raleigh,NC 27616,NC,27616,2022-12-03
+663,"3508 Leonard St, Raleigh, NC 27607","$1,749,500",4,4,"4,250",3,3508 Leonard St, Raleigh,NC 27607,NC,27607,2022-12-03
+664,"1109 Easterly Ct, Raleigh, NC 27615","$1,750,000",4,5,"5,220",1,1109 Easterly Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+665,"12204 Jarden Ct, Raleigh, NC 27613","$445,000",3,3,"1,827",7,12204 Jarden Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+666,"5606 Hamstead Crsg, Raleigh, NC 27612","$269,000",2,2,"1,170",D,5606 Hamstead Crsg, Raleigh,NC 27612,NC,27612,2022-12-03
+667,"329 Diversy Way, Raleigh, NC 27617","$499,990",3,3,"1,749",2,329 Diversy Way, Raleigh,NC 27617,NC,27617,2022-12-03
+668,"1109 Harper Rd, Raleigh, NC 27603","$315,000",3,2,912,1,1109 Harper Rd, Raleigh,NC 27603,NC,27603,2022-12-03
+669,"4105 Fencrest Ct, Raleigh, NC 27613","$1,275,000",5,4,"3,921",1,4105 Fencrest Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+670,"820 E Hargett St, Raleigh, NC 27601","$650,000",--,2,950,2,820 E Hargett St, Raleigh,NC 27601,NC,27601,2022-12-03
+671,"7886 Spungold St, Raleigh, NC 27617","$337,000",2,4,"2,006",1,7886 Spungold St, Raleigh,NC 27617,NC,27617,2022-12-03
+672,"2204 Center Spring Ct, Raleigh, NC 27603","$1,000,000",4,4,"4,602",4,2204 Center Spring Ct, Raleigh,NC 27603,NC,27603,2022-12-03
+673,"509 Ortega Rd, Raleigh, NC 27609","$635,000",3,3,"2,062",3,509 Ortega Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+674,"2308 Carriage Oaks Dr, Raleigh, NC 27614","$599,900",3,4,"3,428",3,2308 Carriage Oaks Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+675,"1303 Slatestone Ct, Raleigh, NC 27615","$399,000",3,3,"1,834",1,1303 Slatestone Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+676,"411 W Lenoir St, Raleigh, NC 27601","$1,100,000",3,4,"2,088",1,411 W Lenoir St, Raleigh,NC 27601,NC,27601,2022-12-03
+677,"8008 Connestee Ct, Raleigh, NC 27612","$695,000",3,3,"3,022",1,8008 Connestee Ct, Raleigh,NC 27612,NC,27612,2022-12-03
+678,"7712 Ohmann Ct, Raleigh, NC 27615","$270,000",2,2,"1,220",8,7712 Ohmann Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+679,"301 Fayetteville St UNIT 2907, Raleigh, NC 27601","$780,000",2,2,"1,390",1,301 Fayetteville St UNIT 2907, Raleigh,NC 27601,NC,27601,2022-12-03
+680,"7853 Spungold St, Raleigh, NC 27617","$304,900",2,3,"1,270",4,7853 Spungold St, Raleigh,NC 27617,NC,27617,2022-12-03
+681,"1305 Nottingham Rd, Raleigh, NC 27607","$1,900,000",--,--,--,4,1305 Nottingham Rd, Raleigh,NC 27607,NC,27607,2022-12-03
+682,"4005 Mt Moran Rd, Raleigh, NC 27616","$388,120",3,3,"1,924",1,4005 Mt Moran Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+683,"411 Sustainable Way, Raleigh, NC 27610","$514,990",3,3,"2,177",2,411 Sustainable Way, Raleigh,NC 27610,NC,27610,2022-12-03
+684,"8817 Stage Ford Rd, Raleigh, NC 27615","$699,900",4,4,"3,990",1,8817 Stage Ford Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+685,"6320 Virgilia Ct, Raleigh, NC 27616","$449,000",3,3,"2,293",2,6320 Virgilia Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+686,"1220 Dixie Trl, Raleigh, NC 27607","$1,450,000",4,4,"3,385",2,1220 Dixie Trl, Raleigh,NC 27607,NC,27607,2022-12-03
+687,"910 Tyrrell Rd, Raleigh, NC 27609","$1,995,000",4,4,"4,457",1,910 Tyrrell Rd, Raleigh,NC 27609,NC,27609,2022-12-03
+688,"4317 Twin Rock Rd, Raleigh, NC 27616","$1,500,000",5,5,"3,848",2,4317 Twin Rock Rd, Raleigh,NC 27616,NC,27616,2022-12-03
+689,"3900 City Of Oaks Wynd, Raleigh, NC 27612","$1,495,000",4,5,"4,649",1,3900 City Of Oaks Wynd, Raleigh,NC 27612,NC,27612,2022-12-03
+690,"736 Grove Ave, Raleigh, NC 27606","$699,900",4,3,"2,777",1,736 Grove Ave, Raleigh,NC 27606,NC,27606,2022-12-03
+691,"12624 Birchfalls Dr, Raleigh, NC 27614","$849,900",4,3,"4,128",4,12624 Birchfalls Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+692,"1013 Collins Dr, Raleigh, NC 27609","$1,442,784",6,6,"5,182",7,1013 Collins Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+693,"6732 Greywalls Ln, Raleigh, NC 27614","$2,350,000",5,6,"7,367",1,6732 Greywalls Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+694,"1201 Graedon Dr, Raleigh, NC 27603","$950,000",5,5,"3,663",7,1201 Graedon Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+695,"7605 Falcon Rest Cir, Raleigh, NC 27615","$289,000",3,3,"1,339",3,7605 Falcon Rest Cir, Raleigh,NC 27615,NC,27615,2022-12-03
+696,"3430 Van Hessen Dr, Raleigh, NC 27614","$399,900",3,3,"1,659",2,3430 Van Hessen Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+697,"1401 Sky Vista Way, Raleigh, NC 27613","$2,475,000",4,7,"5,514",9,1401 Sky Vista Way, Raleigh,NC 27613,NC,27613,2022-12-03
+698,"11124 Slider Dr, Raleigh, NC 27614","$425,000",3,4,"2,516",1,11124 Slider Dr, Raleigh,NC 27614,NC,27614,2022-12-03
+699,"407 Camden St, Raleigh, NC 27601","$783,900",3,3,"1,757",3,407 Camden St, Raleigh,NC 27601,NC,27601,2022-12-03
+700,"6715 Johnsdale Rd, Raleigh, NC 27615","$1,300,000",4,5,"3,303",2,6715 Johnsdale Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+701,"4301 Pamlico Dr, Raleigh, NC 27609","$5,000,000",6,8,"5,896",9,4301 Pamlico Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+702,"3800 Stoneridge Forest Dr LOT 1, Raleigh, NC 27612","$1,389,000",6,6,"5,359",9,3800 Stoneridge Forest Dr LOT 1, Raleigh,NC 27612,NC,27612,2022-12-03
+703,"8313 Rue Cassini Ct, Raleigh, NC 27615","$1,599,000",5,6,"6,994",1,8313 Rue Cassini Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+704,"3966 Massey Wood Trl, Raleigh, NC 27616","$450,000",3,3,"2,460",3,3966 Massey Wood Trl, Raleigh,NC 27616,NC,27616,2022-12-03
+705,"5063 Futura Ln #144, Raleigh, NC 27610","$359,990",3,3,"1,867",9,5063 Futura Ln #144, Raleigh,NC 27610,NC,27610,2022-12-03
+706,"2221 Flowing Dr, Raleigh, NC 27610","$440,000",4,3,"2,652",1,2221 Flowing Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+707,"7382 Fontana Ridge Ln, Raleigh, NC 27613","$599,900",3,3,"2,702",5,7382 Fontana Ridge Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+708,"2101 Oberlin Village Dr #105, Raleigh, NC 27605","$1,500,000",3,4,"2,709",9,2101 Oberlin Village Dr #105, Raleigh,NC 27605,NC,27605,2022-12-03
+709,"6113 Dunzo Dr, Raleigh, NC 27617","$505,000",4,3,"2,775",4,6113 Dunzo Dr, Raleigh,NC 27617,NC,27617,2022-12-03
+710,"613 Barksdale Dr, Raleigh, NC 27604","$575,000",4,2,"1,960",5,613 Barksdale Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+711,"5403 Big Bass Dr, Raleigh, NC 27610","$350,000",3,4,"2,271",2,5403 Big Bass Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+712,"3016 Plaza Pl, Raleigh, NC 27612","$774,900",4,3,"2,937",1,3016 Plaza Pl, Raleigh,NC 27612,NC,27612,2022-12-03
+713,"3732 Cashew Dr, Raleigh, NC 27616","$399,000",3,3,"1,987",3,3732 Cashew Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+714,"7712 Harps Mill Rd, Raleigh, NC 27615","$4,200,000",6,8,"9,002",3,7712 Harps Mill Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+715,"4702 Stony Falls Way, Knightdale, NC 27545","$460,000",3,3,"2,672",1,4702 Stony Falls Way, Knightdale,NC 27545,NC,27545,2022-12-03
+716,"1445 Sawyer Rd, Raleigh, NC 27610","$449,900",3,2,"1,600",3,1445 Sawyer Rd, Raleigh,NC 27610,NC,27610,2022-12-03
+717,"4801 Lakemont Dr, Raleigh, NC 27609","$1,675,000",5,5,"3,974",1,4801 Lakemont Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+718,"1516 Joe Louis Ave, Raleigh, NC 27610","$525,000",3,3,"1,638",5,1516 Joe Louis Ave, Raleigh,NC 27610,NC,27610,2022-12-03
+719,"4520 Bridle Run Dr, Raleigh, NC 27615","$749,900",4,3,"2,925",1,4520 Bridle Run Dr, Raleigh,NC 27615,NC,27615,2022-12-03
+720,"8000 Toddwick Ct, Raleigh, NC 27616","$506,990",5,3,"2,794",8,8000 Toddwick Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+721,"5522 Berry Creek Cir, Raleigh, NC 27613","$420,000",3,3,"1,600",2,5522 Berry Creek Cir, Raleigh,NC 27613,NC,27613,2022-12-03
+722,"618 N Boylan Ave SUITE 718, Raleigh, NC 27603","$659,900",2,2,"1,492",1,618 N Boylan Ave SUITE 718, Raleigh,NC 27603,NC,27603,2022-12-03
+723,"4909 Baylor Ct, Raleigh, NC 27609","$620,000",4,3,"2,069",7,4909 Baylor Ct, Raleigh,NC 27609,NC,27609,2022-12-03
+724,"609 Delany Dr, Raleigh, NC 27610","$600,000",3,2,"1,708",8,609 Delany Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+725,"6437 Camellia Creek Dr, Raleigh, NC 27603","$837,000",4,5,"3,920",2,6437 Camellia Creek Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+726,"12016 Pembridge Ln, Raleigh, NC 27613","$835,000",4,3,"2,866",1,12016 Pembridge Ln, Raleigh,NC 27613,NC,27613,2022-12-03
+727,"1309 Shining Water Ln, Raleigh, NC 27614","$585,000",4,3,"2,143",1,1309 Shining Water Ln, Raleigh,NC 27614,NC,27614,2022-12-03
+728,"4208 Fares Wall Ct, Raleigh, NC 27616","$699,000",4,3,"2,750",1,4208 Fares Wall Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+729,"3509 Deering Dr, Raleigh, NC 27616","$379,900",3,3,"1,416",1,3509 Deering Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+730,"4329 Lambeth Dr, Raleigh, NC 27609","$3,150,000",5,7,"5,769",1,4329 Lambeth Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+731,"4820 N Hills Dr, Raleigh, NC 27612","$975,000",4,5,"2,648",7,4820 N Hills Dr, Raleigh,NC 27612,NC,27612,2022-12-03
+732,"6313 Stephens Ridge Ct, Raleigh, NC 27615","$1,280,000",4,4,"3,816",1,6313 Stephens Ridge Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+733,"5315 Collingswood Dr, Raleigh, NC 27609","$1,485,000",4,4,"3,983",1,5315 Collingswood Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+734,"800 Vardaman St, Raleigh, NC 27610","$329,000",3,2,"1,393",2,800 Vardaman St, Raleigh,NC 27610,NC,27610,2022-12-03
+735,"8108 Harps Mill Rd, Raleigh, NC 27615","$2,495,000",4,4,"5,743",1,8108 Harps Mill Rd, Raleigh,NC 27615,NC,27615,2022-12-03
+736,"3433 Honey Ivy Ln W LOT 143, Raleigh, NC 27604","$436,620",5,3,"2,653",1,3433 Honey Ivy Ln W LOT 143, Raleigh,NC 27604,NC,27604,2022-12-03
+737,"1306 Regulator St, Raleigh, NC 27603","$383,000",3,3,"1,928",1,1306 Regulator St, Raleigh,NC 27603,NC,27603,2022-12-03
+738,"1210 Kent Rd, Raleigh, NC 27606","$689,900",3,3,"2,620",4,1210 Kent Rd, Raleigh,NC 27606,NC,27606,2022-12-03
+739,"7204 Sing Along Ct, Raleigh, NC 27613","$1,365,000",4,5,"4,456",6,7204 Sing Along Ct, Raleigh,NC 27613,NC,27613,2022-12-03
+740,"4719 Jelynn St, Raleigh, NC 27616","$439,900",3,3,"2,419",3,4719 Jelynn St, Raleigh,NC 27616,NC,27616,2022-12-03
+741,"807 Chamberlain St, Raleigh, NC 27607","$2,500,000",5,4,"4,562",3,807 Chamberlain St, Raleigh,NC 27607,NC,27607,2022-12-03
+742,"322 Bragg St, Raleigh, NC 27601","$599,999",3,3,"1,550",7,322 Bragg St, Raleigh,NC 27601,NC,27601,2022-12-03
+743,"2701 Cloud Mist Cir, Raleigh, NC 27614","$365,000",3,3,"1,945",7,2701 Cloud Mist Cir, Raleigh,NC 27614,NC,27614,2022-12-03
+744,"1313 Camille Ct, Raleigh, NC 27615","$2,849,000",5,6,"5,210",9,1313 Camille Ct, Raleigh,NC 27615,NC,27615,2022-12-03
+745,"4216 Ferriday Ct, Raleigh, NC 27616","$317,500",3,2,"1,137",3,4216 Ferriday Ct, Raleigh,NC 27616,NC,27616,2022-12-03
+746,"2369 Sapphire Valley Dr, Raleigh, NC 27604","$329,500",3,3,"1,414",1,2369 Sapphire Valley Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+747,"1200 Capability Dr #101, Raleigh, NC 27606","$399,900",2,3,"1,371",1,1200 Capability Dr #101, Raleigh,NC 27606,NC,27606,2022-12-03
+748,"721 Lunar Dr, Raleigh, NC 27610","$315,000",3,1,975,4,721 Lunar Dr, Raleigh,NC 27610,NC,27610,2022-12-03
+749,"2367 Champion Ct #2367, Raleigh, NC 27606","$364,000",3,3,"1,325",1,2367 Champion Ct #2367, Raleigh,NC 27606,NC,27606,2022-12-03
+750,"517 E Cabarrus St, Raleigh, NC 27601","$1,995,000",4,5,"3,171",2,517 E Cabarrus St, Raleigh,NC 27601,NC,27601,2022-12-03
+751,"5516 Bridgeman Ct, Durham, NC 27703","$459,900",3,3,"1,838",4,5516 Bridgeman Ct, Durham,NC 27703,NC,27703,2022-12-03
+752,"4036 Whitney Peak Dr, Raleigh, NC 27616","$405,035",4,3,"2,134",1,4036 Whitney Peak Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+753,"4816 Sweetbriar Dr, Raleigh, NC 27609","$1,615,000",5,5,"3,776",2,4816 Sweetbriar Dr, Raleigh,NC 27609,NC,27609,2022-12-03
+754,"5508 Grand Traverse Dr, Raleigh, NC 27604","$328,000",3,3,"1,614",6,5508 Grand Traverse Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+755,"3104 Dogwood Dr, Raleigh, NC 27604","$399,900",3,3,"1,603",1,3104 Dogwood Dr, Raleigh,NC 27604,NC,27604,2022-12-03
+756,"6409 Camellia Creek Dr, Raleigh, NC 27603","$675,000",3,3,"2,579",1,6409 Camellia Creek Dr, Raleigh,NC 27603,NC,27603,2022-12-03
+757,"4313 Fowler Ridge Dr, Raleigh, NC 27616","$430,000",4,3,"2,323",3,4313 Fowler Ridge Dr, Raleigh,NC 27616,NC,27616,2022-12-03
+758,"4920 Sweet Shade Trl, Raleigh, NC 27616","$375,000",3,3,"1,635",3,4920 Sweet Shade Trl, Raleigh,NC 27616,NC,27616,2022-12-03
+759,"719 Sasser St, Raleigh, NC 27604","$1,199,000",4,4,"3,238",1,719 Sasser St, Raleigh,NC 27604,NC,27604,2022-12-03
+760,"701 Edmund St, Raleigh, NC 27604","$1,350,000",4,3,"3,309",1,701 Edmund St, Raleigh,NC 27604,NC,27604,2022-12-03
