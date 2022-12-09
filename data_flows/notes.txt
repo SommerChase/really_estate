@@ -1,0 +1,35 @@
+Functional programming
+
+map function over a list
+    doesnt need to be done sequentially
+    allow concurrent execution
+
+ECR
+    docker
+    start locally first
+    repo for docker images
+
+ECS
+    fargate
+        Only runs when we ask
+        Task configs
+        
+    kubernetes
+        fixed cluster that a team manages
+        always on
+        SREs
+
+Docker -> ECR -> ECS (fargate) 
+Also, Prefect Agent running on Prefect Cloud
+Clearcover: Dex. Clearcover Data Services Development
+
+ECS task definition
+
+Prefect Cloud is where you'd live
+    when time, sends an agent
+        ran on ECS
+        simple
+
+database
+    boto3
+    
