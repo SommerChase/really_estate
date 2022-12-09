@@ -208,5 +208,6 @@ def zillow_scrape_flow():
     parsed_data = get_request_soup_and_parse(urls)
     to_df_and_clean(parsed_data)
 
+
 # Run the flow
 zillow_scrape_flow()
