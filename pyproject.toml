@@ -15,6 +15,8 @@ lxml = "^4.9.1"
 prefect = {extras = ["aws"], version = "^2.7.0"}
 prefect-aws = "^0.2.0"
 black = "^22.10.0"
+modal-client = "^0.44.600"
+google-cloud-storage = "^2.7.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
