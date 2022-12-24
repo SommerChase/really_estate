@@ -219,7 +219,7 @@ def to_df_and_clean(raw_data):
 def upload_to_google_cloud_storage(zillow_df):
     service_account_info = json.loads(os.environ["SERVICE_ACCOUNT_JSON"])
     credentials = service_account.Credentials.from_service_account_info(service_account_info)
-    client = storage.Client()
+    client = storage.Client(credentials=credentials)
     bucket = client.get_bucket('really-estate-bucket')
     bucket.blob('upload_test/test.csv').upload_from_string(zillow_df.to_csv(), 'text/csv')
 
