@@ -62,7 +62,7 @@ def get_all_urls(city_state_abbr="raleigh-nc/"):
 
     url_setup = "https://www.zillow.com/" + city_state_abbr
     main_request_setup = requests.get(url_setup, headers=request_headers)
-    page_soup = BeautifulSoup(main_request_setup.content).find_all(
+    page_soup = BeautifulSoup(main_request_setup.content, features="html.parser").find_all(
         "span", class_="Text-c11n-8-73-8__sc-aiai24-0 bKahKV"
     )
 
