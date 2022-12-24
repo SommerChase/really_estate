@@ -215,13 +215,32 @@ def to_df_and_clean(raw_data):
     )"""
     return zillow_df
 
-
+"""
 def upload_to_google_cloud_storage(zillow_df):
     service_account_info = json.loads(os.environ["SERVICE_ACCOUNT_JSON"])
     credentials = service_account.Credentials.from_service_account_info(service_account_info)
     client = storage.Client(credentials=credentials)
     bucket = client.get_bucket('really-estate-bucket')
     bucket.blob('upload_test/test.csv').upload_from_string(zillow_df.to_csv(), 'text/csv')
+"""
+
+#@stub.function(secret=modal.Secret.from_name("my-googlecloud-secret"))
+def upload_to_google_cloud_storage(zillow_df):
+    # from google.cloud import bigquery
+    from google.oauth2 import service_account
+    from google.cloud import storage
+
+    service_account_info = json.loads(os.environ["SERVICE_ACCOUNT_JSON"])
+    credentials = service_account.Credentials.from_service_account_info(service_account_info)
+    client = storage.Client(credentials=credentials)
+    bucket = client.get_bucket('really-estate-bucket')
+    bucket.blob('zillow_scraped/test.csv').upload_from_string(zillow_df.to_csv(
+        "../data_flows_output/{today}_zillow_scrape_output.csv".format(
+            today=date.today()
+        ),
+        header=True,
+    ), 'text/csv')
+
 
 
 @stub.function(
