@@ -136,7 +136,7 @@ def get_request_soup_and_parse(list_of_full_urls_to_scrape):
         raw_bed_soup = str(soup.find_all("strong"))
         raw_bed_soup_list = raw_bed_soup.split(
             ", "
-        )  # Holy balls spent 4 hours on this.
+        )  # Sweet jambalaya I spent 4 hours on this.
 
         count_beds = re.search("<strong>(.+?)</strong>", raw_bed_soup_list[0]).group(1)
         count_baths = re.search("<strong>(.+?)</strong>", raw_bed_soup_list[1]).group(1)
